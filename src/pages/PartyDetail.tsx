@@ -67,7 +67,7 @@ const PartyDetail: React.FC = () => {
         ];
 
         for (const sigla of siglas) {
-          const response = await fetch(`/${sigla}.json`);
+          const response = await fetch(`/PGI/${sigla}.json`);
           if (response.ok) {
             const data = await response.json();
             if (data.id === id) {
