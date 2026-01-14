@@ -5,7 +5,7 @@ import PartyDetail from "./pages/PartyDetail"
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/PGI/">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
