@@ -1,0 +1,177 @@
+{
+  "id": "centro-democratico-y-social",
+  "nombre": "Centro Democrático y Social",
+  "siglas": "CDS",
+  "candidato_presidente": "Ana Virginia Calzada Miranda",
+  "candidato_imagen": "https://www.nacion.com/gnfactory/elecciones-2026/img/candidatos-presidencia/cds.webp",
+  "anio": 2026,
+  "periodo_gobierno": "2026-2030",
+  "pais": "CR",
+  "bandera": "https://www.tse.go.cr/imgs/divisas/centrodemocraticoysocial.jpg",
+  "resumen_10_puntos": [
+    {
+      "n": 1,
+      "titulo": "La persona en el centro de la gestión pública",
+      "detalle": "El plan coloca a la persona en el centro de la gestión pública, definiendo la seguridad, la educación y la salud como compromisos nacionales irrenunciables."
+    },
+    {
+      "n": 2,
+      "titulo": "Seguridad Humana Integral",
+      "detalle": "Propuesta de una Seguridad Humana Integral que combina firmeza contra el crimen organizado con prevención social del delito."
+    },
+    {
+      "n": 3,
+      "titulo": "Recuperación de la inversión educativa",
+      "detalle": "Compromiso con la recuperación progresiva de la inversión educativa para alcanzar el mandato constitucional del 8% del PIB."
+    },
+    {
+      "n": 4,
+      "titulo": "Salud Digital 4.0 en la CCSS",
+      "detalle": "Modernización de la CCSS mediante Salud Digital 4.0, usando inteligencia artificial para eliminar listas de espera en cuatro años."
+    },
+    {
+      "n": 5,
+      "titulo": "TICs como eje transversal del Estado",
+      "detalle": "Uso de las TICs para modernizar el Estado, promover la transparencia y cerrar brechas territoriales."
+    },
+    {
+      "n": 6,
+      "titulo": "Pensión Básica Universal",
+      "detalle": "Implementación de una Pensión Básica Universal para todas las personas mayores de 65 años, independientemente de su historial contributivo."
+    },
+    {
+      "n": 7,
+      "titulo": "Guerra frontal contra el abuso y la especulación",
+      "detalle": "Reducción del costo de la vida fortaleciendo la COPROCOM y creando un Observatorio de Precios con inteligencia artificial."
+    },
+    {
+      "n": 8,
+      "titulo": "Soberanía alimentaria y compra nacional",
+      "detalle": "Prioridad a la soberanía alimentaria mediante el programa \"Compra Nacional, Campo Seguro\", priorizando productores locales."
+    },
+    {
+      "n": 9,
+      "titulo": "Infraestructura ferroviaria estratégica",
+      "detalle": "Desarrollo del Tren Rápido Metropolitano y del Tren Eléctrico para el Comercio y Desarrollo entre Panamá y Costa Rica."
+    },
+    {
+      "n": 10,
+      "titulo": "Gobernanza basada en resultados medibles",
+      "detalle": "Modelo de gobernanza con resultados medibles mediante un tablero de control público accesible en línea para rendición de cuentas."
+    }
+  ],
+  "ejes_tematicos": [
+    {
+      "tema": "economia",
+      "resumen": "Prosperidad compartida, apoyo a PYMES y cooperativas, y lucha contra el costo de la vida y el sobreendeudamiento familiar."
+    },
+    {
+      "tema": "educacion",
+      "resumen": "Educación Primero, dignificación docente, nivelación de aprendizajes y mejora de infraestructura educativa."
+    },
+    {
+      "tema": "salud",
+      "resumen": "Salud a Tiempo, rescate financiero de la CCSS, descentralización de servicios y humanización de la atención."
+    },
+    {
+      "tema": "ambiente",
+      "resumen": "Pacto con la Naturaleza que prioriza el agua como derecho humano, movilidad eléctrica y ciudades esponja."
+    },
+    {
+      "tema": "seguridad",
+      "resumen": "Plan Costa Rica Segura enfocado en narcotráfico, ciberseguridad y recuperación de espacios públicos."
+    },
+    {
+      "tema": "gobernanza",
+      "resumen": "Estado transparente y digital, descentralización a municipalidades y liderazgo en derechos humanos."
+    }
+  ],
+  "propuestas": {
+    "concretas": [
+      {
+        "propuesta": "Creación del Consejo Nacional de Inteligencia Criminal y Seguridad (CONICSE).",
+        "cita_textual": "Crearemos el Consejo Nacional de Inteligencia Criminal y Seguridad (CONICSE): Crearemos un órgano de coordinación táctica presidido por el MSP, con participación de OIJ, Ministerio Público... El CPSA se reunirá semanalmente"
+      },
+      {
+        "propuesta": "Implementación de la Pensión Básica Universal.",
+        "cita_textual": "Es indispensable e impostergable reconocer una pensión básica universal, que garantice a todas las personas 65 más, un ingreso mensual básico suficiente para satisfacer sus necesidades en términos de una vida digna"
+      },
+      {
+        "propuesta": "Adjudicación de la concesión del Tren Eléctrico para el Comercio y Desarrollo.",
+        "cita_textual": "Publicar en SICOP el concurso para adjudicación de la concesión del Tren Eléctrico para el Comercio y Desarrollo a más tardar en 36 meses después de asumir el gobierno"
+      }
+    ],
+    "generales_o_discursivas": [
+      {
+        "propuesta": "Filosofía de colocar a la persona en el centro.",
+        "cita_textual": "La persona en el centro, y la seguridad, la educación y la salud como un compromiso nacional. Con esta convicción, como brújula y destino, el Partido Centro Democrático y Social (CDS) se presenta ante la ciudadanía"
+      },
+      {
+        "propuesta": "Lema de autoridad estatal \"¡Llegó la Ley!\".",
+        "cita_textual": "Nuestro lema '¡Llegó la Ley!' sintetiza nuestro compromiso: presencia efectiva del Estado, autoridad legítima que protege, instituciones que funcionan, justicia que llega"
+      }
+    ]
+  },
+  "temas_ausentes_o_poco_desarrollados": [
+    {
+      "tema": "Derechos específicos de poblaciones migrantes y diversidad sexual",
+      "evidencia": "Se reconocen desigualdades, pero no se detallan reformas legales ni programas operativos más allá de la no discriminación y atención afirmativa en salud mental."
+    },
+    {
+      "tema": "Estado Laico",
+      "evidencia": "NO SE IDENTIFICA EN EL DOCUMENTO ninguna mención a la reforma del artículo 75 constitucional ni a la relación Iglesia-Estado."
+    },
+    {
+      "tema": "Regulación de cannabis y cáñamo",
+      "evidencia": "NO SE IDENTIFICA EN EL DOCUMENTO. El enfoque sobre drogas es estrictamente de control criminal y tratamiento de adicciones."
+    }
+  ],
+  "prioridad_tematica_1a10": {
+    "economia": 8,
+    "educacion": 10,
+    "salud": 10,
+    "ambiente": 8,
+    "seguridad": 10,
+    "gobernanza": 9
+  },
+  "insights_criticos": {
+    "coherencia": {
+      "analisis": "La tecnología se utiliza como hilo conductor transversal que conecta seguridad, salud, educación y transparencia fiscal.",
+      "citas_textuales": [
+        "Las tecnologías de la información y comunicación se plantean en este programa como un eje transversal para convertir cada una de las soluciones en una palanca de eficiencia, acceso y calidad"
+      ]
+    },
+    "viabilidad": {
+      "analisis": "Existe una tensión entre la inversión pública masiva comprometida y la promesa de sostenibilidad fiscal basada principalmente en el combate a la evasión.",
+      "citas_textuales": [
+        "Recuperación progresiva y sostenible de la inversión pública para alcanzar el 8% del PIB en educación",
+        "El financiamiento provendrá de... combate frontal a la evasión y elusión fiscal"
+      ]
+    },
+    "claridad_ejecucion": {
+      "analisis": "El plan establece plazos claros y metas territoriales específicas que facilitan la fiscalización ciudadana.",
+      "citas_textuales": [
+        "Operación Escudo Comunitario y prevención... en los 10 cantones que concentran la mayor cantidad de homicidios",
+        "Gobernaremos con un tablero de control público, accesible online para cualquier persona"
+      ]
+    },
+    "posibles_contradicciones": {
+      "analisis": "Posible contradicción entre la centralización de órganos de coordinación de alto nivel y la propuesta de descentralización de competencias a municipalidades.",
+      "citas_textuales": [
+        "Crearemos el Consejo Nacional de Inteligencia Criminal y Seguridad (CONICSE)... presidido por el MSP",
+        "Transferencia real de competencias y recursos a municipalidades en seguridad... y gobernanza"
+      ]
+    }
+  },
+  "lenguaje": {
+    "tipo_predominante": "Híbrido (Técnico-Métrico y Emotivo-Combativo)",
+    "descripcion": "Combina precisión técnica en soluciones digitales con un tono emotivo y combativo para describir crisis y autoridad estatal.",
+    "evidencia_textual": "Uso de términos como \"encriptado TLS\" y \"metodologías BIM\", junto a expresiones como \"zopilotes de la vivienda\" y \"¡Llegó la Ley!\"."
+  },
+  "puntuacion_lenguaje_1a10": {
+    "tecnico": 9,
+    "populista": 6,
+    "ambiguo": 3,
+    "basado_en_metricas": 9
+  }
+}

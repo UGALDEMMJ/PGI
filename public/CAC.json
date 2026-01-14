@@ -1,0 +1,172 @@
+{
+  "id": "coalicion-agenda-ciudadana",
+  "nombre": "Coalición Agenda Ciudadana",
+  "siglas": "CAC",
+  "candidato_presidente": "Claudia Dobles Camargo",
+  "candidato_imagen": "https://www.nacion.com/gnfactory/elecciones-2026/img/candidatos-presidencia/cac.webp",
+  "anio": 2026,
+  "periodo_gobierno": "2026-2030",
+  "pais": "CR",
+  "bandera": "https://www.tse.go.cr/imgs/divisas/CoalicionAgendaCiudadana.png",
+  "integrantes": [
+    "Partido Acción Ciudadana",
+    "Partido Agenda Democrática Nacional",
+    "Colectivo Agenda Viva"
+  ],
+  "resumen_10_puntos": [
+    {
+      "n": 1,
+      "titulo": "Financiamiento educativo gradual al 8% del PIB",
+      "detalle": "Financiamiento educativo gradual para alcanzar el mandato constitucional del 8% del PIB."
+    },
+    {
+      "n": 2,
+      "titulo": "Transformación digital del Estado",
+      "detalle": "Transformación digital del Estado mediante interoperabilidad obligatoria y rectoría de alto nivel para simplificar trámites."
+    },
+    {
+      "n": 3,
+      "titulo": "Reducción de listas de espera en la CCSS",
+      "detalle": "Reducción de listas de espera mediante gestión en red, telemedicina y jornadas de alto impacto."
+    },
+    {
+      "n": 4,
+      "titulo": "Seguridad ciudadana civilista",
+      "detalle": "Aumento de 4,000 nuevos oficiales de policía y fortalecimiento de la inteligencia estratégica."
+    },
+    {
+      "n": 5,
+      "titulo": "Consolidación fiscal sin nuevos impuestos",
+      "detalle": "Consolidación fiscal recaudando un 1.5% adicional del PIB mediante la modernización de Hacienda Digital."
+    },
+    {
+      "n": 6,
+      "titulo": "Sistema Nacional de Cuidados (SINCA)",
+      "detalle": "Creación del SINCA ampliando la Red de Cuido a 75,000 niños en pobreza y 25,000 de clase media."
+    },
+    {
+      "n": 7,
+      "titulo": "Transición energética justa",
+      "detalle": "Transformación de RECOPE en empresa de energías limpias y búsqueda de una matriz eléctrica 100% renovable."
+    },
+    {
+      "n": 8,
+      "titulo": "Infraestructura y movilidad sostenible",
+      "detalle": "Prioridad al Tren Eléctrico Metropolitano y ampliación de rutas nacionales clave (1, 2, 27, 32, 35)."
+    },
+    {
+      "n": 9,
+      "titulo": "Defensa de derechos humanos e inclusión",
+      "detalle": "Énfasis en devolución de tierras indígenas y protección de poblaciones LGBTIQ+ y afrodescendientes."
+    },
+    {
+      "n": 10,
+      "titulo": "Acceso justo al territorio y vivienda",
+      "detalle": "Planes anti-gentrificación en zonas costeras y facilidades de bonos de vivienda para clase media."
+    }
+  ],
+  "ejes_tematicos": [
+    {
+      "tema": "economia",
+      "resumen": "Modelo de desarrollo justo que busca equilibrio macroeconómico con justicia social, formalización laboral y combate a la evasión."
+    },
+    {
+      "tema": "educacion",
+      "resumen": "Calidad educativa con enfoque STEAM, conectividad universal y fortalecimiento de la educación técnica."
+    },
+    {
+      "tema": "salud",
+      "resumen": "Fortalecimiento del seguro social, atención primaria (EBAIS) y plataforma digital para salud mental."
+    },
+    {
+      "tema": "ambiente",
+      "resumen": "Acción climática y justicia ambiental enfocadas en descarbonización, gestión del agua y economía circular."
+    },
+    {
+      "tema": "seguridad",
+      "resumen": "Seguridad civilista con justicia, lucha contra crimen organizado, prevención comunitaria y modernización penitenciaria."
+    },
+    {
+      "tema": "gobernanza",
+      "resumen": "Estado ágil, confiable y cercano basado en ética, transparencia y transformación digital profunda."
+    }
+  ],
+  "propuestas": {
+    "concretas": [
+      {
+        "propuesta": "Incremento específico de la fuerza policial.",
+        "cita_textual": "Incrementar el número de oficiales de policía en 4.000 para expandir la cobertura de servicio en roles operacionales"
+      },
+      {
+        "propuesta": "Inyección de recursos al régimen de pensiones IVM.",
+        "cita_textual": "Retirar a Costa Rica del FLAR e inyectar de inmediato al IVM los 563 millones de dólares que el país ha depositado en esa entidad"
+      }
+    ],
+    "generales_o_discursivas": [
+      {
+        "propuesta": "Visión ética de la política.",
+        "cita_textual": "Creemos que la ética debe ser la brújula que oriente cada decisión pública, porque la ciudadanía tiene derecho a contar con políticos que no engañen"
+      },
+      {
+        "propuesta": "Aspiración de convivencia nacional.",
+        "cita_textual": "Aspiramos a un país que vuelva a poner en el centro la dignidad, la igualdad, la transparencia... y la convivencia pacífica"
+      }
+    ]
+  },
+  "temas_ausentes_o_poco_desarrollados": [
+    {
+      "tema": "Financiamiento detallado de megaproyectos de infraestructura",
+      "evidencia": "La lista de obras se sustenta de forma general en la eficiencia de Hacienda Digital y recursos nacionales, sin flujo de caja detallado por obra."
+    },
+    {
+      "tema": "Regulación de sustancias psicoactivas recreativas",
+      "evidencia": "El consumo se aborda como problema de salud pública a través del IAFA, sin postura sobre legalización o regulación de mercados."
+    }
+  ],
+  "prioridad_tematica_1a10": {
+    "economia": 9,
+    "educacion": 9.5,
+    "salud": 8.5,
+    "ambiente": 9,
+    "seguridad": 8.5,
+    "gobernanza": 10
+  },
+  "insights_criticos": {
+    "coherencia": {
+      "analisis": "La modernización tecnológica se presenta como habilitador de derechos sociales y eficiencia económica, no como un fin en sí mismo.",
+      "citas_textuales": [
+        "La modernización del Estado y la economía no es un fin en sí mismo, sino el medio para garantizar derechos, resolver los problemas que afectan a las personas"
+      ]
+    },
+    "viabilidad": {
+      "analisis": "La inversión social e infraestructura depende críticamente del éxito de la meta de recaudación por lucha contra la evasión estimada por el plan.",
+      "citas_textuales": [
+        "La mejora proyectada en la recaudación a partir de estas medidas se estima en 1.5% del PIB en ingresos tributarios al 2030. No se solicitará la aprobación de ningún impuesto nuevo"
+      ]
+    },
+    "claridad_ejecucion": {
+      "analisis": "Se evidencia claridad mediante cronogramas presupuestarios graduales, especialmente en educación, que facilitan la rendición de cuentas.",
+      "citas_textuales": [
+        "Establecer un plan de inversión gradual para avanzar hacia el mandato constitucional del 8% del PIB en educación... 0,10% , 0,15% , 0,28% , 0,28% y 0,34%"
+      ]
+    },
+    "posibles_contradicciones": {
+      "analisis": "Tensión potencial entre la centralización de la rectoría digital en una única entidad y la descentralización de competencias a gobiernos locales.",
+      "citas_textuales": [
+        "Consolidar en una única entidad ejecutora la rectoría... de la transformación digital",
+        "Promover legislación para el traslado de competencias a las municipalidades en relación con la construcción... de la infraestructura educativa"
+      ]
+    }
+  },
+  "lenguaje": {
+    "tipo_predominante": "Tecnocrático y basado en métricas",
+    "descripcion": "Lenguaje técnico complementado con una narrativa de bienestar social.",
+    "evidencia_textual": "Uso de acrónimos y conceptos técnicos como \"STEAM\", \"interoperabilidad\", \"UX-UI, CRM y nubes\", \"BRT\" y \"project finance\"."
+  },
+  "puntuacion_lenguaje_1a10": {
+    "tecnico": 9,
+    "populista": 1,
+    "ambiguo": 3,
+    "basado_en_metricas": 9.5
+  }
+}

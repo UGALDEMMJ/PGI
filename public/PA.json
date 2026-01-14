@@ -1,0 +1,169 @@
+{
+  "id": "partido-avanza",
+  "nombre": "Partido Avanza",
+  "siglas": "PA",
+  "candidato_presidente": "Jose Aguilar Berrocal",
+  "candidato_imagen": "https://www.nacion.com/gnfactory/elecciones-2026/img/candidatos-presidencia/avanza.webp",
+  "anio": 2026,
+  "periodo_gobierno": "2026-2030",
+  "pais": "CR",
+  "bandera": "https://www.tse.go.cr/imgs/divisas/Avanza.jpg",
+  "resumen_10_puntos": [
+    {
+      "n": 1,
+      "titulo": "Modelo de las Dos Turbinas",
+      "detalle": "Plantea un modelo donde una economía vibrante y una sociedad solidaria funcionan como motores complementarios para el desarrollo del país."
+    },
+    {
+      "n": 2,
+      "titulo": "Seguridad como prioridad presidencial",
+      "detalle": "La seguridad se convierte en la prioridad principal, liderada directamente desde Casa Presidencial con enfoque en autoridad, inteligencia y datos."
+    },
+    {
+      "n": 3,
+      "titulo": "Centro de Comando C5",
+      "detalle": "Creación del Centro de Comando C5 para integrar en tiempo real cámaras, drones, sensores y bases policiales."
+    },
+    {
+      "n": 4,
+      "titulo": "Control territorial inmediato",
+      "detalle": "Operativos masivos en los 20 distritos más violentos durante los primeros 100 días de gobierno."
+    },
+    {
+      "n": 5,
+      "titulo": "Emergencia Nacional en Educación",
+      "detalle": "Declaratoria de emergencia educativa con evaluaciones integrales y uso de inteligencia artificial desde la primaria."
+    },
+    {
+      "n": 6,
+      "titulo": "Disciplina fiscal estricta",
+      "detalle": "Compromiso de no crear nuevos impuestos, recortando despilfarro y auditando presupuestos para eliminar duplicidades."
+    },
+    {
+      "n": 7,
+      "titulo": "Estado Digital Cero Filas",
+      "detalle": "Eliminación de 50 trámites presenciales en dos años y digitalización del 80% de gestiones para 2027."
+    },
+    {
+      "n": 8,
+      "titulo": "Modernización de infraestructura crítica",
+      "detalle": "Prioridad a rutas 27 y 32, Tren Eléctrico Metropolitano y despliegue de redes 5G y 6G."
+    },
+    {
+      "n": 9,
+      "titulo": "Reducción de listas de espera en salud",
+      "detalle": "Reducción de listas de espera a la mitad en dos años mediante emergencia nacional y apoyo del sector privado."
+    },
+    {
+      "n": 10,
+      "titulo": "Pobreza extrema cero para 2030",
+      "detalle": "Meta de erradicar la pobreza extrema vinculando transferencias económicas a educación, capacitación y empleo inclusivo."
+    }
+  ],
+  "ejes_tematicos": [
+    {
+      "tema": "economia",
+      "resumen": "Modelo liberal pro-inversión con reducción de cargas sociales y fomento de sectores de alta tecnología."
+    },
+    {
+      "tema": "educacion",
+      "resumen": "Educación alineada al mercado laboral, bilingüismo, formación dual y fortalecimiento de la lectoescritura."
+    },
+    {
+      "tema": "salud",
+      "resumen": "Eficiencia de la CCSS, digitalización de expedientes, prevención y fortalecimiento de la salud mental."
+    },
+    {
+      "tema": "ambiente",
+      "resumen": "Descarbonización, economía circular y cumplimiento del compromiso 30x30 para protección ambiental."
+    },
+    {
+      "tema": "seguridad",
+      "resumen": "Combate al narcotráfico y crimen organizado con tecnología C5, control portuario y prevención social."
+    },
+    {
+      "tema": "gobernanza",
+      "resumen": "Estado facilitador, digital y transparente con rendición de cuentas basada en métricas (KPIs)."
+    }
+  ],
+  "propuestas": {
+    "concretas": [
+      {
+        "propuesta": "Operativos de choque en seguridad.",
+        "cita_textual": "operativos masivos y permanentes en los 20 distritos más violentos del país... con presencia visible de Fuerza Pública + Policía de Fronteras + unidades especiales"
+      },
+      {
+        "propuesta": "Reducción cuantificable de listas de espera.",
+        "cita_textual": "Declararemos emergencia nacional las demoras en especialidades y cirugías, con la meta de reducirlas a la mitad en 2 años"
+      }
+    ],
+    "generales_o_discursivas": [
+      {
+        "propuesta": "Unidad nacional y recuperación de valores.",
+        "cita_textual": "Queremos volver a unirnos como ticos, dejar atrás la división y trabajar juntos en soluciones concretas que devuelvan esperanza y confianza en el futuro"
+      },
+      {
+        "propuesta": "Visión de liderazgo nacional.",
+        "cita_textual": "La innovación será el sello de una Costa Rica que piensa en grande"
+      }
+    ]
+  },
+  "temas_ausentes_o_poco_desarrollados": [
+    {
+      "tema": "Derechos de poblaciones LGBTI+ y equidad de género",
+      "evidencia": "No existe un capítulo específico; las menciones a mujeres se limitan a su inclusión en la economía digital."
+    },
+    {
+      "tema": "Financiamiento de la Educación Superior (FEES)",
+      "evidencia": "No se desarrolla el conflicto presupuestario de universidades públicas ni la autonomía universitaria."
+    }
+  ],
+  "prioridad_tematica_1a10": {
+    "economia": 10,
+    "educacion": 10,
+    "salud": 8.5,
+    "ambiente": 8,
+    "seguridad": 10,
+    "gobernanza": 9
+  },
+  "insights_criticos": {
+    "coherencia": {
+      "analisis": "El plan articula seguridad, educación y empleo como un mismo eje causal para reducir el crimen.",
+      "citas_textuales": [
+        "los problemas educativos son una de las causas de la inseguridad",
+        "Seguridad, educación y oportunidades para todos no son tres luchas distintas: son la misma batalla"
+      ]
+    },
+    "viabilidad": {
+      "analisis": "La financiación descansa en eficiencia digital y esquemas híbridos, evitando nuevos impuestos.",
+      "citas_textuales": [
+        "La transformación digital profunda... se financiará mediante un esquema híbrido, que combine inversión pública directa... con la concesión de obra pública digital"
+      ]
+    },
+    "claridad_ejecucion": {
+      "analisis": "Existe una estructura de mando definida con roles específicos para seguridad y tecnología.",
+      "citas_textuales": [
+        "La seguridad nacional... se coordinará directamente desde Casa Presidencial, bajo el liderazgo de la Segunda Vicepresidencia",
+        "Se propone el nombramiento y empoderamiento de un CTO (Director de Tecnología) País con poder vinculante"
+      ]
+    },
+    "posibles_contradicciones": {
+      "analisis": "Tensión entre la promesa de no crear impuestos y la necesidad de recursos adicionales para seguridad y educación.",
+      "citas_textuales": [
+        "Afrontar este déficit operativo será un reto inmediato... conscientes de que trabajaremos con un presupuesto heredado",
+        "sin aumentar impuestos generales, sino recortando despilfarro"
+      ]
+    }
+  },
+  "lenguaje": {
+    "tipo_predominante": "Técnico y basado en métricas con elementos populistas",
+    "descripcion": "Predomina el lenguaje técnico (APIs, Zero Trust, KPIs) acompañado de una narrativa crítica hacia la élite política.",
+    "evidencia_textual": "Uso de términos como \"identidad digital universal\", \"API-first\" y \"Zero Trust\" junto a críticas a una \"élite política\""
+  },
+  "puntuacion_lenguaje_1a10": {
+    "tecnico": 9,
+    "populista": 7,
+    "ambiguo": 3,
+    "basado_en_metricas": 9.5
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "id": "justicia-social-costarricense",
+  "nombre": "Partido Justicia Social Costarricense",
+  "siglas": "PJSC",
+  "candidato_presidente": "Walter Hernández Juárez",
+  "candidato_imagen": "https://www.nacion.com/gnfactory/elecciones-2026/img/candidatos-presidencia/pjsc.webp",
+  "anio": 2026,
+  "periodo_gobierno": "2026-2030",
+  "pais": "CR",
+  "bandera": "https://www.tse.go.cr/imgs/divisas/justiciasocialcostarricense.jpg",
+  "resumen_10_puntos": [
+    {
+      "n": 1,
+      "titulo": "Modelo económico justo e inclusivo",
+      "detalle": "Construcción de un modelo económico orientado a reducir la desigualdad y la concentración de la riqueza."
+    },
+    {
+      "n": 2,
+      "titulo": "Reforma fiscal progresiva",
+      "detalle": "Aplicación del principio de que quien más tiene más aporte, eliminando impuestos a la canasta básica."
+    },
+    {
+      "n": 3,
+      "titulo": "Impulso a PYMES y economía solidaria",
+      "detalle": "Fortalecimiento de PYMES, cooperativas y economía social solidaria como motores de empleo."
+    },
+    {
+      "n": 4,
+      "titulo": "Educación para la Vida",
+      "detalle": "Transformación educativa con 100% de conectividad y cumplimiento del 8% del PIB para educación."
+    },
+    {
+      "n": 5,
+      "titulo": "Defensa de la CCSS",
+      "detalle": "Protección del carácter universal y solidario de la CCSS con énfasis en medicina preventiva."
+    },
+    {
+      "n": 6,
+      "titulo": "Tolerancia cero contra el delito",
+      "detalle": "Estrategia de seguridad con uso de drones y videovigilancia inteligente."
+    },
+    {
+      "n": 7,
+      "titulo": "Soberanía alimentaria",
+      "detalle": "Fortalecimiento del agro nacional y protección del campesinado para garantizar la autosuficiencia alimentaria."
+    },
+    {
+      "n": 8,
+      "titulo": "Reforma agresiva del Estado",
+      "detalle": "Eliminación de duplicidades, simplificación de trámites y combate frontal a la corrupción."
+    },
+    {
+      "n": 9,
+      "titulo": "Protección ambiental y del agua",
+      "detalle": "Reconocimiento del recurso hídrico como derecho humano y liderazgo en energías limpias y economía circular."
+    },
+    {
+      "n": 10,
+      "titulo": "Metas sociales de impacto",
+      "detalle": "Reducción de la pobreza extrema en un 30% y generación de 50.000 empleos en cinco años."
+    }
+  ],
+  "ejes_tematicos": [
+    {
+      "tema": "economia",
+      "resumen": "Soberanía productiva, apoyo a cooperativas y PYMES, y combate con mano dura a la evasión fiscal."
+    },
+    {
+      "tema": "educacion",
+      "resumen": "Reforma integral con competencias digitales, pensamiento crítico y garantía del 8% del PIB."
+    },
+    {
+      "tema": "salud",
+      "resumen": "Fortalecimiento integral de la CCSS y pago de la deuda estatal con la institución."
+    },
+    {
+      "tema": "ambiente",
+      "resumen": "Rechazo a la explotación petrolera, impulso al hidrógeno verde y protección de áreas de conservación."
+    },
+    {
+      "tema": "seguridad",
+      "resumen": "Creación de un Centro Nacional de Inteligencia y control territorial efectivo contra el narcotráfico."
+    },
+    {
+      "tema": "gobernanza",
+      "resumen": "Descentralización hacia municipalidades, rendición de cuentas periódica y lucha contra la impunidad."
+    }
+  ],
+  "propuestas": {
+    "concretas": [
+      {
+        "propuesta": "Reducción porcentual de la pobreza extrema con plazo definido.",
+        "cita_textual": "Reducir la pobreza extrema en un 30% en los próximos 5 años"
+      },
+      {
+        "propuesta": "Fusión institucional para crear una nueva entidad asociativa.",
+        "cita_textual": "La Dirección Nacional de Desarrollo Comunal (DINADECO) se fusionará con INFOCOOP para crear el Instituto de Desarrollo de Empresas Asociativas (IDEAS)"
+      }
+    ],
+    "generales_o_discursivas": [
+      {
+        "propuesta": "Aspiración de justicia social e inclusión.",
+        "cita_textual": "Soñamos con una Costa Rica justa, solidaria e inclusiva, donde todas las personas tengan las mismas oportunidades de crecer"
+      },
+      {
+        "propuesta": "Dignificación del sector docente.",
+        "cita_textual": "Dignificar la labor docente, mejorando de forma sustancial sus condiciones de trabajo"
+      }
+    ]
+  },
+  "temas_ausentes_o_poco_desarrollados": [
+    {
+      "tema": "Derechos de la población LGBTQ+",
+      "evidencia": "No se identifican políticas específicas ni menciones directas a diversidad sexual o identidad de género."
+    },
+    {
+      "tema": "Salud mental",
+      "evidencia": "Se menciona como prioritaria, pero sin metas numéricas ni programas específicos de prevención o infraestructura."
+    }
+  ],
+  "prioridad_tematica_1a10": {
+    "economia": 10,
+    "educacion": 9,
+    "salud": 9,
+    "ambiente": 8,
+    "seguridad": 9,
+    "gobernanza": 9
+  },
+  "insights_criticos": {
+    "coherencia": {
+      "analisis": "El plan mantiene coherencia ideológica socialdemócrata al vincular redistribución de riqueza con políticas sociales y productivas.",
+      "citas_textuales": [
+        "Justicia social con eficiencia económica. Que la justicia no mate a la eficiencia, ni la eficiencia mate a la justicia"
+      ]
+    },
+    "viabilidad": {
+      "analisis": "La financiación depende fuertemente de la recuperación de recursos por evasión y corrupción, lo que representa el mayor riesgo de ejecución.",
+      "citas_textuales": [
+        "la enorme evasión y elusión de 8.22% del PIB para el 2020",
+        "exoneraciones tributarias que ronda la cifra del 4.62% del PIB"
+      ]
+    },
+    "claridad_ejecucion": {
+      "analisis": "Existe claridad en las metas de impacto, pero los mecanismos de implementación suelen delegarse a procesos de diálogo y nuevos consejos.",
+      "citas_textuales": [
+        "a partir de un proceso de diálogo con las fuerzas vivas de la sociedad",
+        "Instalar un Consejo Presidencial que atienda y coordine medidas urgentes"
+      ]
+    },
+    "posibles_contradicciones": {
+      "analisis": "El plan busca reducir burocracia, pero simultáneamente propone la creación de nuevas entidades y canales estatales.",
+      "citas_textuales": [
+        "un Estado fuerte no gigantesco",
+        "Instituto de Desarrollo de Empresas Asociativas",
+        "canal de televisión... exclusivo del Poder Ejecutivo las 24 horas"
+      ]
+    }
+  },
+  "lenguaje": {
+    "tipo_predominante": "Híbrido basado en métricas y populista",
+    "descripcion": "Combina narrativa emocional de justicia social con abundante uso de datos fiscales y metas cuantificables.",
+    "evidencia_textual": "Expresiones como \"reina la inseguridad y la desesperanza\" junto a datos como \"déficit fiscal representó el 3,8% del PIB\"."
+  },
+  "puntuacion_lenguaje_1a10": {
+    "tecnico": 7,
+    "populista": 8,
+    "ambiguo": 6,
+    "basado_en_metricas": 9
+  }
+}

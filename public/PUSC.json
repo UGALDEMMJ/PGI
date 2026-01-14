@@ -1,0 +1,178 @@
+{
+  "id": "unidad-social-cristiana",
+  "nombre": "Partido Unidad Social Cristiana",
+  "siglas": "PUSC",
+  "candidato_presidente": "Juan Carlos Hidalgo Bogantes",
+  "candidato_imagen": "https://www.nacion.com/gnfactory/elecciones-2026/img/candidatos-presidencia/pusc.webp",
+  "anio": 2026,
+  "periodo_gobierno": "2026-2030",
+  "pais": "CR",
+  "bandera": "https://www.tse.go.cr/imgs/divisas/unidadsocialcristiana.jpg",
+  "resumen_10_puntos": [
+    {
+      "n": 1,
+      "titulo": "Seguridad como prioridad nacional",
+      "detalle": "Implementación de la operación \"Blindaje\" para retomar el control territorial y aumento de la fuerza policial en 6.500 efectivos."
+    },
+    {
+      "n": 2,
+      "titulo": "Reducción de cargas laborales",
+      "detalle": "Eliminación del 7,25% de los impuestos al salario correspondientes a cargas patronales no destinadas a salud o pensiones, para fomentar la formalidad."
+    },
+    {
+      "n": 3,
+      "titulo": "Reforma institucional profunda",
+      "detalle": "Transición hacia un Estado facilitador mediante reformas al Poder Judicial, la Contraloría y el Poder Ejecutivo."
+    },
+    {
+      "n": 4,
+      "titulo": "Sistema Unificado de Cuido",
+      "detalle": "Creación de una plataforma integral para el cuido de niños, personas con discapacidad y adultos mayores."
+    },
+    {
+      "n": 5,
+      "titulo": "Transformación educativa",
+      "detalle": "Ejecución de la Cruzada Nacional por la Lectoescritura y modernización de 500 centros educativos."
+    },
+    {
+      "n": 6,
+      "titulo": "Eficiencia en salud",
+      "detalle": "Reducción de listas de espera de la CCSS mediante jornadas extraordinarias y uso intensivo del expediente digital (EDUS)."
+    },
+    {
+      "n": 7,
+      "titulo": "Reactivación de infraestructura",
+      "detalle": "Finalización inmediata de obras paralizadas como la Ruta 32, Ruta 27 y la carretera a San Carlos."
+    },
+    {
+      "n": 8,
+      "titulo": "Apertura del mercado eléctrico",
+      "detalle": "Impulso a la generación privada, almacenamiento en baterías y generación distribuida."
+    },
+    {
+      "n": 9,
+      "titulo": "Economía azul y ambiente",
+      "detalle": "Aprovechamiento sostenible del mar, resolución del caso Crucitas mediante minería formal y generación de energía con residuos."
+    },
+    {
+      "n": 10,
+      "titulo": "Modernización de servicios públicos",
+      "detalle": "Intervención decidida del ICE y AyA para garantizar el suministro continuo de agua y electricidad."
+    }
+  ],
+  "ejes_tematicos": [
+    {
+      "tema": "economia",
+      "resumen": "Competitividad y generación de empleo mediante reducción de costos de producción y eliminación de trabas burocráticas."
+    },
+    {
+      "tema": "educacion",
+      "resumen": "Calidad y pertinencia educativa con bilingüismo, metodologías STEAM y mejora de infraestructura."
+    },
+    {
+      "tema": "salud",
+      "resumen": "Fortalecimiento de la atención primaria, salud mental, reducción de listas de espera y sostenibilidad financiera."
+    },
+    {
+      "tema": "ambiente",
+      "resumen": "Protección ambiental como motor de prosperidad, transición energética y gestión hídrica."
+    },
+    {
+      "tema": "seguridad",
+      "resumen": "Estrategia integral contra el crimen organizado con inteligencia fortalecida y prevención del delito."
+    },
+    {
+      "tema": "gobernanza",
+      "resumen": "Modernización del Estado para mayor agilidad y transparencia, con énfasis en la reforma del sistema de justicia."
+    }
+  ],
+  "propuestas": {
+    "concretas": [
+      {
+        "propuesta": "Incremento de la fuerza policial",
+        "cita_textual": "Aumentaremos en 6.500 la cantidad de policías activos con el fin de mejorar la presencia territorial y la capacidad de respuesta"
+      },
+      {
+        "propuesta": "Reducción de impuestos a las planillas",
+        "cita_textual": "De la carga patronal actual (26,67%), se eliminará el 7,25% que corresponde a recaudación para otras instituciones del Estado (INA, IMAS, FODESAF, Banco Popular)"
+      },
+      {
+        "propuesta": "Modernización de infraestructura escolar",
+        "cita_textual": "modernizar 500 centros educativos durante el período de gobierno para superar los déficits existentes"
+      }
+    ],
+    "generales_o_discursivas": [
+      {
+        "propuesta": "Cambio del rol del Estado",
+        "cita_textual": "pasar de un Estado paternalista a un Estado facilitador"
+      },
+      {
+        "propuesta": "Fomento de valores sociales",
+        "cita_textual": "Estimularemos la cultura de paz que ha caracterizado a nuestro país, para disminuir los niveles de conflictividad y violencia"
+      }
+    ]
+  },
+  "temas_ausentes_o_poco_desarrollados": [
+    {
+      "tema": "Conflictos de tenencia de tierras indígenas",
+      "evidencia": "No se detalla una ruta técnica o legal para resolver los conflictos históricos de recuperación de tierras indígenas."
+    },
+    {
+      "tema": "Derechos sexuales y reproductivos",
+      "evidencia": "No se identifican políticas sobre salud sexual, derechos reproductivos o educación sexual integral."
+    },
+    {
+      "tema": "Regulación del cabildeo y financiamiento político",
+      "evidencia": "No se presentan propuestas concretas para regular el lobby ni el origen de los fondos electorales."
+    }
+  ],
+  "prioridad_tematica_1a10": {
+    "economia": 9,
+    "educacion": 8,
+    "salud": 8,
+    "ambiente": 7,
+    "seguridad": 10,
+    "gobernanza": 9
+  },
+  "insights_criticos": {
+    "coherencia": {
+      "analisis": "El plan asume que el crecimiento económico es la base para financiar el bienestar social y los programas públicos.",
+      "citas_textuales": [
+        "la mejor política social es una economía con alto crecimiento y una fuerte generación de empleo",
+        "difícilmente podremos tener programas sociales robustos sin una economía que genere los recursos para financiarlos"
+      ]
+    },
+    "viabilidad": {
+      "analisis": "La ejecución depende de consensos legislativos y de la venta de activos estatales para financiar iniciativas clave.",
+      "citas_textuales": [
+        "Fondo de Seguridad Nacional... cuyos recursos provendrán de la venta de activos estatales como el Banco de Costa Rica",
+        "impulsar la aprobación del expediente 23.414 que abre el mercado a la participación privada eficiente"
+      ]
+    },
+    "claridad_ejecucion": {
+      "analisis": "Define acciones inmediatas y metas cuantitativas que permiten el seguimiento ciudadano.",
+      "citas_textuales": [
+        "Diez acciones para emparejar la cancha en los primeros 100 días",
+        "Se proyecta una reducción de la mora judicial en un 40% en los primeros cuatro años"
+      ]
+    },
+    "posibles_contradicciones": {
+      "analisis": "Existe tensión entre el respeto a la disciplina fiscal y la necesidad de realizar gastos extraordinarios en seguridad.",
+      "citas_textuales": [
+        "Nuestro compromiso con la regla fiscal es absoluto",
+        "debe permitir que se asignen más recursos a prioridades como la seguridad ciudadana"
+      ]
+    }
+  },
+  "lenguaje": {
+    "tipo_predominante": "Técnico-profesional",
+    "descripcion": "Lenguaje orientado a proyectos sectoriales específicos y respaldado por diagnósticos técnicos.",
+    "evidencia_textual": "Uso de conceptos como equipos técnicos especializados, diagnósticos con rigor profesional y evidencia sólida."
+  },
+  "puntuacion_lenguaje_1a10": {
+    "tecnico": 9,
+    "populista": 2,
+    "ambiguo": 3,
+    "basado_en_metricas": 9
+  }
+}

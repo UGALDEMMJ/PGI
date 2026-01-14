@@ -1,0 +1,171 @@
+{
+  "id": "pueblo-soberano",
+  "nombre": "Pueblo Soberano",
+  "siglas": "PPSO",
+  "candidato_presidente": "Laura Fernández Delgado",
+  "candidato_imagen": "https://www.nacion.com/gnfactory/elecciones-2026/img/candidatos-presidencia/pps.webp",
+  "anio": 2026,
+  "periodo_gobierno": "2026-2030",
+  "pais": "CR",
+  "bandera": "https://www.tse.go.cr/imgs/divisas/pueblosoberano.jpg",
+  "nota_identificacion": "El documento se presenta como \"Laura Fernández Presidente\" y \"Plan de la Continuidad 2026-2030\"; no se identifica explícitamente el nombre del partido dentro del texto, pero se asocia públicamente con Pueblo Soberano.",
+  "resumen_10_puntos": [
+    {
+      "n": 1,
+      "titulo": "Continuidad gubernamental",
+      "detalle": "Propuesta para gobernar 2026-2030 dando seguimiento directo a la ruta iniciada en 2022, manteniendo el enfoque y prioridades del gobierno saliente."
+    },
+    {
+      "n": 2,
+      "titulo": "Seguridad y crimen organizado",
+      "detalle": "Uso intensivo de tecnología, centros de mando C7i y reformas penitenciarias para recuperar la paz social."
+    },
+    {
+      "n": 3,
+      "titulo": "Economía Jaguar",
+      "detalle": "Crecimiento económico sostenido basado en atracción de IED, disciplina fiscal y reducción de la deuda pública."
+    },
+    {
+      "n": 4,
+      "titulo": "Modernización del Estado",
+      "detalle": "Reforma administrativa profunda, digitalización de trámites y combate a la corrupción mediante Hacienda Digital."
+    },
+    {
+      "n": 5,
+      "titulo": "Innovación y tecnología",
+      "detalle": "Uso transversal de inteligencia artificial, despliegue de 5G y fomento de la economía digital."
+    },
+    {
+      "n": 6,
+      "titulo": "Educación STEAM y bilingüismo",
+      "detalle": "Transformación educativa hacia ciencia, tecnología, ingeniería, artes y matemáticas, con meta de inglés universal."
+    },
+    {
+      "n": 7,
+      "titulo": "Salud y seguridad social",
+      "detalle": "Modernización de la CCSS, reducción de listas de espera mediante alianzas y digitalización total de servicios."
+    },
+    {
+      "n": 8,
+      "titulo": "Infraestructura estratégica",
+      "detalle": "Desarrollo y mantenimiento de puertos, aeropuertos y rutas críticas como Ruta 35 y Ciudad Gobierno."
+    },
+    {
+      "n": 9,
+      "titulo": "Reducción de pobreza y desigualdad",
+      "detalle": "Fortalecimiento de la Estrategia Brete y programas de vivienda para hogares en pobreza extrema."
+    },
+    {
+      "n": 10,
+      "titulo": "Sostenibilidad ambiental",
+      "detalle": "Transición hacia economía circular y descarbonizada, protección del recurso hídrico y mantenimiento de matriz energética limpia."
+    }
+  ],
+  "ejes_tematicos": [
+    {
+      "tema": "economia",
+      "resumen": "Estabilidad macroeconómica, competitividad, apoyo a PYMES y desarrollo de sectores emergentes como la biotecnología."
+    },
+    {
+      "tema": "educacion",
+      "resumen": "Modernización pedagógica, educación técnica dual, conectividad educativa y fortalecimiento de la formación docente."
+    },
+    {
+      "tema": "salud",
+      "resumen": "Prevención, salud mental, medicina apoyada en IA y reestructuración administrativa de la CCSS."
+    },
+    {
+      "tema": "ambiente",
+      "resumen": "Economía circular, movilidad sostenible, protección de cuencas y aprovechamiento de energías renovables."
+    },
+    {
+      "tema": "seguridad",
+      "resumen": "Control fronterizo con escáneres, profesionalización policial, vigilancia aérea y marítima y endurecimiento de penas."
+    },
+    {
+      "tema": "gobernanza",
+      "resumen": "Transformación digital del sector público, transparencia, rendición de cuentas y fortalecimiento municipal."
+    }
+  ],
+  "propuestas": {
+    "concretas": [
+      {
+        "propuesta": "Centro penal de alta seguridad",
+        "cita_textual": "puesta en operación de la cárcel de máxima seguridad, inspirada en modelos internacionales, destinada a aislar a líderes del crimen organizado... Con una capacidad para 5.000 personas"
+      },
+      {
+        "propuesta": "Centro nacional de mando tecnológico (C7i)",
+        "cita_textual": "Desarrollar la plataforma nacional de integración de datos de seguridad, inspirado en centros C7i de vanguardia. Su propósito es centralizar información operativa en tiempo real"
+      }
+    ],
+    "generales_o_discursivas": [
+      {
+        "propuesta": "Igualdad de oportunidades",
+        "cita_textual": "Lucharemos incansablemente por un país en el que la igualdad de oportunidades no sea un ideal permanente, sino una realidad"
+      },
+      {
+        "propuesta": "Familia y valores",
+        "cita_textual": "la preservación y cuido de la familia como el primer y principal motor para el desarrollo humano"
+      }
+    ]
+  },
+  "temas_ausentes_o_poco_desarrollados": [
+    {
+      "tema": "Financiamiento detallado de grandes obras",
+      "evidencia": "No se detallan partidas presupuestarias específicas ni fuentes exactas para proyectos ferroviarios o de infraestructura masiva."
+    },
+    {
+      "tema": "Política cultural presupuestaria",
+      "evidencia": "Se menciona democratizar el acceso a la cultura, pero sin metas métricas ni aumentos presupuestarios definidos."
+    }
+  ],
+  "prioridad_tematica_1a10": {
+    "economia": 10,
+    "educacion": 9,
+    "salud": 8,
+    "ambiente": 7,
+    "seguridad": 10,
+    "gobernanza": 9
+  },
+  "insights_criticos": {
+    "coherencia": {
+      "analisis": "Alta coherencia al usar tecnología y digitalización como eje transversal en seguridad, salud, educación y recaudación.",
+      "citas_textuales": [
+        "un sistema de salud pública moderno... capaz de ofrecer atención general y especializada oportuna",
+        "digitalización de los trámites, la eliminación de duplicidades normativas y la incorporación de la tecnología"
+      ]
+    },
+    "viabilidad": {
+      "analisis": "La ejecución depende de reformas legales profundas y respaldo legislativo, especialmente en seguridad y reformas estructurales.",
+      "citas_textuales": [
+        "reforma profunda e integral del Reglamento de la Asamblea Legislativa",
+        "Tramitar ante la Asamblea Legislativa... restricción de levantamiento o suspensión de garantías individuales"
+      ]
+    },
+    "claridad_ejecucion": {
+      "analisis": "Claridad en las herramientas tecnológicas a usar, pero menor definición en cronogramas específicos de entrega.",
+      "citas_textuales": [
+        "Operar escáneres de manera contínua en puertos, aeropuertos y fronteras terrestres",
+        "Implementar en su totalidad Hacienda Digital"
+      ]
+    },
+    "posibles_contradicciones": {
+      "analisis": "Tensión entre la descentralización territorial de la inversión y la centralización administrativa mediante Ciudad Gobierno.",
+      "citas_textuales": [
+        "cierre de brechas territoriales al llevar inversión a las regiones periféricas",
+        "construcción del Proyecto Ciudad Gobierno"
+      ]
+    }
+  },
+  "lenguaje": {
+    "tipo_predominante": "Técnico-programático orientado a resultados",
+    "descripcion": "Lenguaje de continuidad institucional con fuerte uso de términos técnicos, acrónimos y métricas.",
+    "evidencia_textual": "Uso de términos como \"nearshoring\", \"PIB\", \"STEAM\", \"C7i\", \"interoperabilidad\" y \"estándares internacionales\"."
+  },
+  "puntuacion_lenguaje_1a10": {
+    "tecnico": 9,
+    "populista": 3,
+    "ambiguo": 2,
+    "basado_en_metricas": 9
+  }
+}

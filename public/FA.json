@@ -1,0 +1,169 @@
+{
+  "id": "frente-amplio",
+  "nombre": "Frente Amplio",
+  "siglas": "FA",
+  "candidato_presidente": "Ariel Robles Barrantes",
+  "candidato_imagen": "https://www.nacion.com/gnfactory/elecciones-2026/img/candidatos-presidencia/fa.webp",
+  "anio": 2026,
+  "periodo_gobierno": "2026-2030",
+  "pais": "CR",
+  "bandera": "https://www.tse.go.cr/imgs/divisas/frenteamplio.jpg",
+  "resumen_10_puntos": [
+    {
+      "n": 1,
+      "titulo": "Combate a pobreza y desigualdad con cuidados",
+      "detalle": "Combate a la pobreza y desigualdad mediante transferencias monetarias universales y creación de un Sistema Nacional de Cuidados con enfoque de derechos y género."
+    },
+    {
+      "n": 2,
+      "titulo": "Reforma fiscal progresiva",
+      "detalle": "Implementación de reforma fiscal progresiva con renta mundial y global, impuestos a grandes herencias e IVA personalizado."
+    },
+    {
+      "n": 3,
+      "titulo": "Rescate de la educación pública al 8% del PIB",
+      "detalle": "Rescate de la educación pública cumpliendo el mandato constitucional del 8% del PIB y cierre de la brecha digital."
+    },
+    {
+      "n": 4,
+      "titulo": "Defensa de autonomía de la CCSS",
+      "detalle": "Defensa de la autonomía de la CCSS, pago de la deuda histórica del Estado y mejora de gestión de listas de espera."
+    },
+    {
+      "n": 5,
+      "titulo": "Transformación productiva con soberanía alimentaria",
+      "detalle": "Prioridad a MIPYMES y cooperativas y soberanía alimentaria a través del CNP."
+    },
+    {
+      "n": 6,
+      "titulo": "Transición energética y tren eléctrico",
+      "detalle": "Transformación de RECOPE en empresa de energías químicas limpias e impulso del Tren Eléctrico."
+    },
+    {
+      "n": 7,
+      "titulo": "Seguridad democrática y prevención",
+      "detalle": "Seguridad ciudadana basada en prevención integral y seguridad democrática, rechazando el populismo punitivo."
+    },
+    {
+      "n": 8,
+      "titulo": "Justicia ambiental y protección del agua",
+      "detalle": "Justicia ambiental reconociendo el agua como derecho humano y prohibiendo la minería metálica a cielo abierto."
+    },
+    {
+      "n": 9,
+      "titulo": "Reforma del Estado contra captura por élites",
+      "detalle": "Reforma del Estado para eliminar captura por élites, suprimiendo presidencias ejecutivas en instituciones autónomas para técnificar la gestión."
+    },
+    {
+      "n": 10,
+      "titulo": "Costa Rica plurinacional e inclusión",
+      "detalle": "Consolidación de una Costa Rica plurinacional garantizando autonomía de pueblos indígenas y derechos de la población LGBTIQ+."
+    }
+  ],
+  "ejes_tematicos": [
+    {
+      "tema": "economia",
+      "resumen": "Modelo económico inclusivo con énfasis en empleo digno, competitividad, soberanía productiva y justicia fiscal."
+    },
+    {
+      "tema": "educacion",
+      "resumen": "Fortalecer educación pública, acceso al conocimiento, cultura popular y ciencia crítica como pilares de transformación nacional."
+    },
+    {
+      "tema": "salud",
+      "resumen": "Salud como conjunto de acciones interinstitucionales para bienestar multidimensional con enfoque territorial, descolonizado y comunitario."
+    },
+    {
+      "tema": "ambiente",
+      "resumen": "Garantizar derecho humano a ambiente sano, proteger bienes comunes y avanzar hacia justicia climática y territorial."
+    },
+    {
+      "tema": "seguridad",
+      "resumen": "Construir seguridad democrática mediante prevención integral, fortalecimiento comunitario y enfoque estructural."
+    },
+    {
+      "tema": "gobernanza",
+      "resumen": "Modernizar el Estado sin privatizarlo, mejorando eficacia, eficiencia, participación ciudadana y combate a la corrupción."
+    }
+  ],
+  "propuestas": {
+    "concretas": [
+      {
+        "propuesta": "Reducción salarial para altos cargos jerárquicos.",
+        "cita_textual": "Recortar en un 25% el salario global fijado para el presidente, ministros, y viceministros del Gobierno 2026-2030"
+      },
+      {
+        "propuesta": "Protección legislativa de fondos de asistencia social.",
+        "cita_textual": "Impulso al proyecto de ley expediente N.º 24.227... Ley para Evitar la Disminución del Aporte del Poder Ejecutivo al Fondo de Desarrollo Social y Asignaciones Familiares"
+      }
+    ],
+    "generales_o_discursivas": [
+      {
+        "propuesta": "Cambio en el ejercicio de la autoridad y poder.",
+        "cita_textual": "Creemos en una nueva forma de ejercer el poder en la cual el pueblo y la ciudadanía se desarrollen con actores plenos en las decisiones del país"
+      },
+      {
+        "propuesta": "Liderazgo internacional en derechos humanos y paz.",
+        "cita_textual": "Ejercer un liderazgo internacional coherente con la defensa de los derechos humanos, la erradicación del hambre en el mundo... y la promoción de la paz"
+      }
+    ]
+  },
+  "temas_ausentes_o_poco_desarrollados": [
+    {
+      "tema": "Política industrial para sectores de alta tecnología (semiconductores y dispositivos médicos)",
+      "evidencia": "Se menciona la Política Nacional de Clústeres de forma general, sin hoja de ruta específica; el énfasis tecnológico se centra en digitalización del Estado vía blockchain y regulación de la IA."
+    },
+    {
+      "tema": "Integración económica urbana de la población migrante",
+      "evidencia": "El enfoque migratorio es mayoritariamente humanitario y agrícola, sin estrategia detallada para inserción laboral formal en sectores urbanos."
+    }
+  ],
+  "prioridad_tematica_1a10": {
+    "economia": 9,
+    "educacion": 9,
+    "salud": 9,
+    "ambiente": 10,
+    "seguridad": 8.5,
+    "gobernanza": 9.5
+  },
+  "insights_criticos": {
+    "coherencia": {
+      "analisis": "La economía se plantea como medio para garantizar derechos sociales y ambientales bajo un enfoque interseccional.",
+      "citas_textuales": [
+        "Nuestra propuesta se basa en un conjunto de pilares y principios orientados a dar sustento material a las necesidades y derechos humanos de las personas, mediante convergencias virtuosas entre dinámicas del mercado, del Estado y de la asociatividad económica solidaria"
+      ]
+    },
+    "viabilidad": {
+      "analisis": "La viabilidad financiera depende de una reforma fiscal profunda y de la aprobación de financiamiento adicional, lo que implica riesgo político en un congreso fragmentado.",
+      "citas_textuales": [
+        "nuevas fuentes de financiamiento específicas y progresivas",
+        "romper la captura del Estado... mediante una profunda reforma fiscal progresiva"
+      ]
+    },
+    "claridad_ejecucion": {
+      "analisis": "Alta claridad en propuestas legislativas al citar expedientes específicos, reduciendo ambigüedad sobre las reformas pretendidas.",
+      "citas_textuales": [
+        "expediente N.º 24935 'Ley Silla'",
+        "expediente N.º 24520 Ley para Aumentar el Presupuesto... en la Atención de la Salud Mental"
+      ]
+    },
+    "posibles_contradicciones": {
+      "analisis": "Tensión entre reducir costo de vida y elevar aranceles para proteger producción nacional, lo que podría aumentar precios al consumidor.",
+      "citas_textuales": [
+        "Freno al aumento del costo de la vida",
+        "aumentar progresivamente los Derechos Arancelarios a la Importación (DAI) de los principales productos agrícolas"
+      ]
+    }
+  },
+  "lenguaje": {
+    "tipo_predominante": "Híbrido (Técnico-Estadístico y Político-Reivindicativo)",
+    "descripcion": "Sustenta parte de sus argumentos en datos de instituciones oficiales, combinándolo con una narrativa política de confrontación hacia élites.",
+    "evidencia_textual": "Combina datos como el \"coeficiente de Gini... de 0,462\" con expresiones como \"rostro más descarnado del autoritarismo neoliberal\" y \"captura del Estado por sectores económicos poderosos\"."
+  },
+  "puntuacion_lenguaje_1a10": {
+    "tecnico": 9,
+    "populista": 7,
+    "ambiguo": 3,
+    "basado_en_metricas": 9.5
+  }
+}

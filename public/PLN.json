@@ -1,0 +1,168 @@
+{
+  "id": "liberacion-nacional",
+  "nombre": "Partido Liberación Nacional",
+  "siglas": "PLN",
+  "candidato_presidente": "Álvaro Ramos Chaves",
+  "candidato_imagen": "https://www.nacion.com/gnfactory/elecciones-2026/img/candidatos-presidencia/pln.webp",
+  "anio": 2026,
+  "periodo_gobierno": "2026-2030",
+  "pais": "CR",
+  "bandera": "https://www.tse.go.cr/imgs/divisas/liberacionnacional.jpg",
+  "resumen_10_puntos": [
+    {
+      "n": 1,
+      "titulo": "Seguridad integral y blindaje tecnológico",
+      "detalle": "Enfrentar la criminalidad mediante prevención, contención y represión, con blindaje tecnológico de fronteras y creación de un Centro de Comando C5."
+    },
+    {
+      "n": 2,
+      "titulo": "Inversión educativa al 8% del PIB",
+      "detalle": "Restablecer gradualmente la inversión pública en educación hasta alcanzar el 8% del PIB, priorizando infraestructura y calidad docente."
+    },
+    {
+      "n": 3,
+      "titulo": "Fortalecimiento de la CCSS",
+      "detalle": "Garantizar la autonomía de gobierno de la CCSS y ejecutar un plan para saldar la deuda del Estado con la institución."
+    },
+    {
+      "n": 4,
+      "titulo": "Motores estratégicos de desarrollo",
+      "detalle": "Impulso a tres motores: agroalimentario con agricultura de precisión, ciencias de la vida con IA y dispositivos médicos, y turismo sostenible."
+    },
+    {
+      "n": 5,
+      "titulo": "Ecología integral",
+      "detalle": "Implementar economía circular, gestión del recurso hídrico y transición hacia energías de nueva generación como el hidrógeno verde."
+    },
+    {
+      "n": 6,
+      "titulo": "Empleo joven y formación dual",
+      "detalle": "Combate al desempleo juvenil mediante el programa Empleo Joven Ahora y centros de formación dual."
+    },
+    {
+      "n": 7,
+      "titulo": "Sistema Nacional de Cuidados",
+      "detalle": "Nuevo pacto con las mujeres fortaleciendo el Sistema Nacional de Cuidados y cerrando la brecha salarial."
+    },
+    {
+      "n": 8,
+      "titulo": "Infraestructura con APP",
+      "detalle": "Modernización vial y ferroviaria mediante Alianzas Público-Privadas para cerrar una brecha de financiamiento de USD 24.733 millones."
+    },
+    {
+      "n": 9,
+      "titulo": "Financiamiento a MiPymes",
+      "detalle": "Fortalecimiento de MiPymes con un crédito de USD 500 millones gestionado con banca multilateral a través del SBD."
+    },
+    {
+      "n": 10,
+      "titulo": "Política exterior para el desarrollo",
+      "detalle": "Recuperar liderazgo internacional enfocando la diplomacia en atracción de inversión, cooperación técnica y seguridad nacional."
+    }
+  ],
+  "ejes_tematicos": [
+    {
+      "tema": "economia",
+      "resumen": "Competitividad y productividad con incorporación de tecnología (IA y Revolución 4.0), apoyo a sectores estratégicos y MiPymes."
+    },
+    {
+      "tema": "educacion",
+      "resumen": "Motor de movilidad social con cierre de brechas territoriales, competencias STEAM y conectividad universal."
+    },
+    {
+      "tema": "salud",
+      "resumen": "Modelo universal y solidario centrado en la persona, con énfasis en salud mental, listas de espera y fortalecimiento de la CCSS."
+    },
+    {
+      "tema": "ambiente",
+      "resumen": "Adaptación climática, gobernanza marina, protección de biodiversidad (Meta 30x30) y descarbonización."
+    },
+    {
+      "tema": "seguridad",
+      "resumen": "Combate al narcotráfico, sicariato y ciberataques mediante inteligencia, control portuario con escáneres y aumento policial."
+    },
+    {
+      "tema": "gobernanza",
+      "resumen": "Descentralización del poder, diálogo respetuoso, responsabilidad fiscal y modernización legal para APPs."
+    }
+  ],
+  "propuestas": {
+    "concretas": [
+      {
+        "propuesta": "Creación de nuevas plazas policiales.",
+        "cita_textual": "Creación de al menos 6.000 nuevas plazas a distribuir entre los distintos órganos policiales del país."
+      },
+      {
+        "propuesta": "Financiamiento a MiPymes mediante crédito multilateral.",
+        "cita_textual": "gestionar un crédito soberano de USD 500 millones con la banca multilateral. Estos fondos serán canalizados a través del Sistema de Banca para el Desarrollo (SBD)"
+      }
+    ],
+    "generales_o_discursivas": [
+      {
+        "propuesta": "Reconstrucción de la confianza ciudadana.",
+        "cita_textual": "construiremos la nueva Costa Rica desde la confianza y el diálogo respetuoso, que da dignidad a quienes participan y se sienten escuchados."
+      },
+      {
+        "propuesta": "Liderazgo agroalimentario sostenible.",
+        "cita_textual": "Lideraremos una revolución verde que convierta a Costa Rica en referente mundial."
+      }
+    ]
+  },
+  "temas_ausentes_o_poco_desarrollados": [
+    {
+      "tema": "Control directo de la inflación y canasta básica",
+      "evidencia": "No se detallan políticas específicas de control de precios de productos de consumo básico para los hogares."
+    },
+    {
+      "tema": "Reforma profunda del aparato estatal central",
+      "evidencia": "No se plantea una reestructuración masiva o fusión de ministerios para reducir el tamaño del Estado central."
+    }
+  ],
+  "prioridad_tematica_1a10": {
+    "economia": 9,
+    "educacion": 9,
+    "salud": 8,
+    "ambiente": 8,
+    "seguridad": 10,
+    "gobernanza": 7
+  },
+  "insights_criticos": {
+    "coherencia": {
+      "analisis": "El plan vincula la estabilidad macroeconómica con la inversión social, evitando aislar la política fiscal de la realidad humana.",
+      "citas_textuales": [
+        "el manejo de las finanzas públicas se guiará por principios de responsabilidad fiscal, pero reconectando la evolución del gasto con la de los ingresos."
+      ]
+    },
+    "viabilidad": {
+      "analisis": "Las metas de infraestructura y apoyo a MiPymes dependen del endeudamiento externo y de la atracción de capital privado.",
+      "citas_textuales": [
+        "gestionar un crédito soberano de USD 500 millones con la banca multilateral",
+        "las APP son indispensables para el desarrollo de infraestructura crítica"
+      ]
+    },
+    "claridad_ejecucion": {
+      "analisis": "Alto detalle en la priorización de proyectos de infraestructura ya iniciados, facilitando el seguimiento de la gestión.",
+      "citas_textuales": [
+        "conclusión en el menor plazo posible de proyectos con alto avance (Taras-La Lima, Ruta 32, Paso Desnivel Circunvalación Sur...)"
+      ]
+    },
+    "posibles_contradicciones": {
+      "analisis": "Tensión fiscal entre reducir costos de producción y aumentar gasto educativo al 8% del PIB junto al pago de la deuda con la CCSS.",
+      "citas_textuales": [
+        "bajar los costos de producción",
+        "Restablecimiento la inversión pública en educación hasta alcanzar gradualmente el 8% del PIB"
+      ]
+    }
+  },
+  "lenguaje": {
+    "tipo_predominante": "Técnico-programático",
+    "descripcion": "Lenguaje de gestión pública, economía y tecnología con énfasis en planificación, financiamiento y competitividad.",
+    "evidencia_textual": "Uso de términos como \"tecnologías 4.0\", \"Project Finance\" y \"Taxonomía de finanzas sostenibles\"."
+  },
+  "puntuacion_lenguaje_1a10": {
+    "tecnico": 9,
+    "populista": 2,
+    "ambiguo": 4,
+    "basado_en_metricas": 7
+  }
+}

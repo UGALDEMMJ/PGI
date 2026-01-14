@@ -1,0 +1,166 @@
+{
+  "id": "liberal-progresista",
+  "nombre": "Partido Liberal Progresista",
+  "siglas": "PLP",
+  "candidato_presidente": "Eliécer Feinzaig Mintz",
+  "candidato_imagen": "https://www.nacion.com/gnfactory/elecciones-2026/img/candidatos-presidencia/plp.webp",
+  "anio": 2026,
+  "periodo_gobierno": "2026-2030",
+  "pais": "CR",
+  "bandera": "https://www.tse.go.cr/imgs/divisas/liberalprogresista.jpg",
+  "resumen_10_puntos": [
+    {
+      "n": 1,
+      "titulo": "Emergencia nacional en seguridad",
+      "detalle": "Declaratoria de emergencia nacional en seguridad para actuar con rapidez y transparencia frente al crimen organizado."
+    },
+    {
+      "n": 2,
+      "titulo": "Incremento masivo de la fuerza policial",
+      "detalle": "Aumento de 10.000 nuevos efectivos de la Fuerza Pública durante el mandato."
+    },
+    {
+      "n": 3,
+      "titulo": "Simplificación radical del sistema tributario",
+      "detalle": "Reducción del sistema tributario a 15 impuestos nacionales, eliminando 35 tributos de baja recaudación."
+    },
+    {
+      "n": 4,
+      "titulo": "Apertura del mercado eléctrico",
+      "detalle": "Modernización y apertura del mercado eléctrico para fomentar la competencia y reducir tarifas."
+    },
+    {
+      "n": 5,
+      "titulo": "Reforma administrativa del Estado",
+      "detalle": "Fusión o cierre de instituciones como RECOPE, CNP, RACSA, IFAM e INDER para reducir burocracia."
+    },
+    {
+      "n": 6,
+      "titulo": "Reforma estructural de la CCSS",
+      "detalle": "Separación de las funciones aseguradoras, prestadoras de servicios y operadoras de pensiones de la CCSS."
+    },
+    {
+      "n": 7,
+      "titulo": "Reducción del IVA en alquileres",
+      "detalle": "Disminución del IVA en alquileres de vivienda del 13% al 4% para aliviar el costo de vida de la clase media."
+    },
+    {
+      "n": 8,
+      "titulo": "Muro tecnológico fronterizo",
+      "detalle": "Implementación de un muro tecnológico con drones, radares e inteligencia artificial en fronteras, puertos y costas."
+    },
+    {
+      "n": 9,
+      "titulo": "Tramitología digital Solo Una Vez",
+      "detalle": "Aplicación del principio Solo Una Vez para evitar que la ciudadanía repita la entrega de información al Estado."
+    },
+    {
+      "n": 10,
+      "titulo": "Autonomía educativa y excelencia",
+      "detalle": "Reforma educativa con autonomía para centros de excelencia y universalización del currículo completo."
+    }
+  ],
+  "ejes_tematicos": [
+    {
+      "tema": "economia",
+      "resumen": "Libertad de mercado, simplificación tributaria, atracción de inversión extranjera directa y fortalecimiento de PYMES."
+    },
+    {
+      "tema": "educacion",
+      "resumen": "Pacto Nacional por la Educación, autonomía administrativa y énfasis en áreas STEM."
+    },
+    {
+      "tema": "salud",
+      "resumen": "Sostenibilidad financiera, reducción de listas de espera mediante tercerización y modernización de la gestión pública."
+    },
+    {
+      "tema": "ambiente",
+      "resumen": "Gobernanza moderna, economía circular y una descarbonización realista."
+    },
+    {
+      "tema": "seguridad",
+      "resumen": "Enfoque multidimensional con control territorial, inteligencia financiera y uso intensivo de tecnología."
+    },
+    {
+      "tema": "gobernanza",
+      "resumen": "Reforma profunda del Estado, digitalización por defecto y transparencia basada en resultados."
+    }
+  ],
+  "propuestas": {
+    "concretas": [
+      {
+        "propuesta": "Reducción de la carga tributaria nacional.",
+        "cita_textual": "Nuestra propuesta será mantener únicamente estos 15 impuestos nacionales y eliminar 35 impuestos que hoy recaudan menos del 1% de los ingresos tributarios proyectados..."
+      },
+      {
+        "propuesta": "Fortalecimiento del recurso humano policial.",
+        "cita_textual": "...nos proponemos aumentar la cantidad de oficiales de la Fuerza Pública en 10.000 nuevos policías"
+      }
+    ],
+    "generales_o_discursivas": [
+      {
+        "propuesta": "Visión de optimismo realista para el país.",
+        "cita_textual": "Elegimos la esperanza informada: la convicción de que un mejor futuro es posible y realizable si nos ordenamos, nos coordinamos y hacemos lo que corresponde"
+      },
+      {
+        "propuesta": "Compromiso con resultados tangibles.",
+        "cita_textual": "El éxito no será un discurso: será menos homicidios, más negocios operando, trámites en horas y no en meses..."
+      }
+    ]
+  },
+  "temas_ausentes_o_poco_desarrollados": [
+    {
+      "tema": "Metas específicas de reducción de emisiones por sector",
+      "evidencia": "No se establecen metas porcentuales propias de reducción de CO2 por año o sector específico."
+    },
+    {
+      "tema": "Derechos culturales de minorías étnicas no indígenas",
+      "evidencia": "No se detallan políticas específicas para la preservación de la cultura afrocostarricense u otras minorías étnicas."
+    }
+  ],
+  "prioridad_tematica_1a10": {
+    "economia": 10,
+    "educacion": 8,
+    "salud": 7,
+    "ambiente": 6,
+    "seguridad": 10,
+    "gobernanza": 9
+  },
+  "insights_criticos": {
+    "coherencia": {
+      "analisis": "El plan conecta la reducción de la burocracia con la eficiencia económica y la ampliación de libertades individuales.",
+      "citas_textuales": [
+        "La segunda victoria es la libertad frente a la tramitología y las cargas absurdas que no agregan valor. Un Estado moderno facilita..."
+      ]
+    },
+    "viabilidad": {
+      "analisis": "La viabilidad financiera se apoya en la reasignación de recursos existentes y el ahorro derivado del cierre y venta de activos estatales.",
+      "citas_textuales": [
+        "Renunciaremos a comprar la membresía de la Corporación Andina de Fomento (CAF)... para destinar dichos recursos para financiar el combate contra la inseguridad"
+      ]
+    },
+    "claridad_ejecucion": {
+      "analisis": "Se establecen plazos claros para los primeros 100 días en la presentación de planes nacionales clave.",
+      "citas_textuales": [
+        "Durante los primeros 100 días de nuestra administración presentaremos el Plan Nacional de Prevención del Delito..."
+      ]
+    },
+    "posibles_contradicciones": {
+      "analisis": "Existe una tensión entre la reducción masiva de impuestos y la necesidad de financiar inversiones ambiciosas en infraestructura y seguridad.",
+      "citas_textuales": [
+        "nuestra meta es haber concretado ambas ventas [BCR y BICSA], con ingresos íntegros destinados a reducir la deuda pública... en al menos un 3% del PIB"
+      ]
+    }
+  },
+  "lenguaje": {
+    "tipo_predominante": "Técnico-programático con retórica liberal",
+    "descripcion": "Lenguaje orientado a eficiencia, resultados y libertad económica con fuerte énfasis en digitalización y simplificación.",
+    "evidencia_textual": "Uso de expresiones como \"silencio positivo\", \"interoperabilidad de datos\" y \"sandbox regulatorios con seguridad jurídica\"."
+  },
+  "puntuacion_lenguaje_1a10": {
+    "tecnico": 9,
+    "populista": 3,
+    "ambiguo": 2,
+    "basado_en_metricas": 8
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "id": "esperanza-nacional",
+  "nombre": "Partido Esperanza Nacional",
+  "siglas": "PEN",
+  "candidato_presidente": "Claudio Alpízar Otoya",
+  "candidato_imagen": "https://www.nacion.com/gnfactory/elecciones-2026/img/candidatos-presidencia/pen.webp",
+  "anio": 2026,
+  "periodo_gobierno": "2026-2030",
+  "pais": "CR",
+  "bandera": "https://www.tse.go.cr/imgs/divisas/EsperanzaNacional.jpg",
+  "resumen_10_puntos": [
+    {
+      "n": 1,
+      "titulo": "Estado eficiente y protector",
+      "detalle": "Transformación hacia un Estado eficiente y eficaz que actúe como una sombrilla protectora para la ciudadanía."
+    },
+    {
+      "n": 2,
+      "titulo": "Crecimiento económico acelerado",
+      "detalle": "Búsqueda de crecimiento económico sostenido con tasas entre 5% y más del 7% del PIB."
+    },
+    {
+      "n": 3,
+      "titulo": "Nuevo modelo educativo integral",
+      "detalle": "Implementación de un modelo educativo con bilingüismo, competencias digitales y cultura emprendedora desde la primaria."
+    },
+    {
+      "n": 4,
+      "titulo": "Seguridad Nacional Integral",
+      "detalle": "Estrategia de seguridad mediante un Consejo de Seguridad Nacional y coordinación de cuerpos policiales."
+    },
+    {
+      "n": 5,
+      "titulo": "Saneamiento de la salud pública",
+      "detalle": "Reducción de listas de espera y pago de la deuda estatal con la CCSS para fortalecer la salud pública."
+    },
+    {
+      "n": 6,
+      "titulo": "Rescate del sector agropecuario",
+      "detalle": "Apoyo al sector agropecuario con crédito accesible, tecnología y rechazo a tratados comerciales perjudiciales."
+    },
+    {
+      "n": 7,
+      "titulo": "Infraestructura estratégica nacional",
+      "detalle": "Desarrollo de infraestructura como un Canal Seco interoceánico y expansión del sistema ferroviario."
+    },
+    {
+      "n": 8,
+      "titulo": "Reducción territorial de la desigualdad",
+      "detalle": "Mejora del Índice de Desarrollo Humano en los 20 cantones más pobres del país."
+    },
+    {
+      "n": 9,
+      "titulo": "Costa Rica como Smart City",
+      "detalle": "Conversión del país en una Smart City sostenible mediante el uso regulado de inteligencia artificial y tecnología."
+    },
+    {
+      "n": 10,
+      "titulo": "Matriz energética 100% limpia",
+      "detalle": "Compromiso con una matriz energética completamente limpia y rechazo total a la explotación de hidrocarburos."
+    }
+  ],
+  "ejes_tematicos": [
+    {
+      "tema": "economia",
+      "resumen": "Economía como bastión financiero para el desarrollo social, enfocada en productividad e inserción internacional."
+    },
+    {
+      "tema": "educacion",
+      "resumen": "Calidad de los aprendizajes, infraestructura educativa urgente y adaptación a las demandas laborales del siglo XXI."
+    },
+    {
+      "tema": "salud",
+      "resumen": "Sostenibilidad financiera de la CCSS y eficiencia en la atención primaria de salud."
+    },
+    {
+      "tema": "ambiente",
+      "resumen": "Protección de la biodiversidad, economía circular y transición hacia energías renovables."
+    },
+    {
+      "tema": "seguridad",
+      "resumen": "Combate prioritario al narcotráfico y crimen organizado mediante inteligencia estratégica."
+    },
+    {
+      "tema": "gobernanza",
+      "resumen": "Reforma administrativa para articular el gobierno central con gobiernos locales y otros poderes del Estado."
+    }
+  ],
+  "propuestas": {
+    "concretas": [
+      {
+        "propuesta": "Atención inmediata a infraestructura educativa crítica.",
+        "cita_textual": "Respuesta a los 73 centros educativos bajo decretos de emergencia y los 46 con declaración de peligro inminente en los primeros 100 días"
+      },
+      {
+        "propuesta": "Creación de infraestructura de transporte interoceánico.",
+        "cita_textual": "Canal Seco que comunique en forma directa, en menos de 4 horas, el Océano Atlántico con el Océano Pacífico, con un tren y una carretera paralela"
+      }
+    ],
+    "generales_o_discursivas": [
+      {
+        "propuesta": "Mejora de la convivencia política.",
+        "cita_textual": "Debemos desterrar el odio, la confrontación y los ataques que tanto daño hacen a nuestra convivencia"
+      },
+      {
+        "propuesta": "Bienestar para la población adulta mayor.",
+        "cita_textual": "Queremos... una vejez tranquila y respetada para quienes entregaron su vida trabajando por esta patria"
+      }
+    ]
+  },
+  "temas_ausentes_o_poco_desarrollados": [
+    {
+      "tema": "Derechos específicos de la población LGBTIQ+",
+      "evidencia": "No se identifican políticas específicas; solo se menciona un compromiso general con los derechos humanos."
+    },
+    {
+      "tema": "Reforma estructural del sistema de elección de magistrados",
+      "evidencia": "Se habla de mejorar la administración de justicia, pero sin detallar cambios en la estructura del poder judicial."
+    }
+  ],
+  "prioridad_tematica_1a10": {
+    "economia": 10,
+    "educacion": 9.5,
+    "seguridad": 9.5,
+    "gobernanza": 9,
+    "salud": 8.5,
+    "ambiente": 8
+  },
+  "insights_criticos": {
+    "coherencia": {
+      "analisis": "El plan presenta un enfoque sistémico donde la economía financia lo social y la tecnología atraviesa todos los ejes de política pública.",
+      "citas_textuales": [
+        "La gobernanza supone una institucionalidad que funcione en forma sistémica y mucho más eficaz"
+      ]
+    },
+    "viabilidad": {
+      "analisis": "La viabilidad financiera depende de empréstitos internacionales y de alcanzar tasas de crecimiento económico superiores a las actuales.",
+      "citas_textuales": [
+        "Estos recursos no podrán salir exclusivamente del presupuesto nacional... se deberán solicitar recursos financieros ante organismos internacionales"
+      ]
+    },
+    "claridad_ejecucion": {
+      "analisis": "Existen metas temporales claras para los primeros 100 días y cronogramas anuales definidos para el desarrollo cantonal.",
+      "citas_textuales": [
+        "El mejoramiento sustancial del índice de Desarrollo Humano de los 20 cantones más pobres se programaría de la siguiente manera: 5 cantones en el primer año, 10 en el segundo y 5 en el tercero"
+      ]
+    },
+    "posibles_contradicciones": {
+      "analisis": "Tensión entre el rechazo a la explotación de hidrocarburos por motivos ambientales y la propuesta de explotación minera de oro a gran escala.",
+      "citas_textuales": [
+        "visión ambiental del país",
+        "explotación minera del oro"
+      ]
+    }
+  },
+  "lenguaje": {
+    "tipo_predominante": "Técnico-métrico con matices aspiracionales socialdemócratas",
+    "descripcion": "Lenguaje técnico apoyado en indicadores y métricas, acompañado de un discurso aspiracional de desarrollo y bienestar.",
+    "evidencia_textual": "Uso de términos como \"DBFOM\" y \"Contratos por Desempeño\" junto a métricas del GII, IDH e IMAE."
+  },
+  "puntuacion_lenguaje_1a10": {
+    "tecnico": 8.5,
+    "populista": 3,
+    "ambiguo": 4,
+    "basado_en_metricas": 9.5
+  }
+}

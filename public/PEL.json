@@ -1,0 +1,170 @@
+{
+  "id": "esperanza-y-libertad",
+  "nombre": "Esperanza y Libertad",
+  "siglas": "PEL",
+  "candidato_presidente": "Marco Rodríguez Badilla",
+  "candidato_imagen": "https://www.nacion.com/gnfactory/elecciones-2026/img/candidatos-presidencia/pel.webp",
+  "anio": 2026,
+  "periodo_gobierno": "2026-2030",
+  "pais": "CR",
+  "bandera": "https://www.tse.go.cr/imgs/divisas/EsperanzayLibertad.jpg",
+  "resumen_10_puntos": [
+    {
+      "n": 1,
+      "titulo": "Reducción de la pobreza",
+      "detalle": "Reducción de la pobreza total por debajo de los 12 puntos porcentuales y la pobreza extrema al 3%."
+    },
+    {
+      "n": 2,
+      "titulo": "Disminución de la deuda pública",
+      "detalle": "Reducción de la deuda pública a menos del 50% del PIB mediante gestión fiscal sostenida."
+    },
+    {
+      "n": 3,
+      "titulo": "Aumento de inversión en infraestructura",
+      "detalle": "Incremento de la inversión pública en infraestructura hasta alcanzar el 6% del PIB al final del periodo."
+    },
+    {
+      "n": 4,
+      "titulo": "Reducción de la tasa de homicidios",
+      "detalle": "Disminución de la tasa de homicidios a 10 o menos por cada 100 mil habitantes."
+    },
+    {
+      "n": 5,
+      "titulo": "Reintegración educativa masiva",
+      "detalle": "Reintegración de 300 mil estudiantes excluidos al sistema educativo formal."
+    },
+    {
+      "n": 6,
+      "titulo": "Recuperación del sector agrícola",
+      "detalle": "Aumento de la participación del sector agrícola hasta el 6% del PIB."
+    },
+    {
+      "n": 7,
+      "titulo": "Reducción del desempleo e informalidad",
+      "detalle": "Reducción del desempleo a menos del 6% y la informalidad al 25%."
+    },
+    {
+      "n": 8,
+      "titulo": "Digitalización total de trámites prioritarios",
+      "detalle": "Digitalización del 100% de los trámites estatales prioritarios."
+    },
+    {
+      "n": 9,
+      "titulo": "Matriz eléctrica renovable",
+      "detalle": "Mantenimiento de al menos 98% de generación eléctrica renovable."
+    },
+    {
+      "n": 10,
+      "titulo": "Reducción de listas de espera en salud",
+      "detalle": "Reducción de los tiempos de espera en salud para que el tiempo mediano sea menor a 6 meses en 2030."
+    }
+  ],
+  "ejes_tematicos": [
+    {
+      "tema": "economia",
+      "resumen": "Estabilidad macroeconómica, reactivación productiva inclusiva, fortalecimiento de pymes y diversificación de exportaciones."
+    },
+    {
+      "tema": "educacion",
+      "resumen": "Emergencia educativa con reformas curriculares, infraestructura segura y fortalecimiento de la educación técnica y dual."
+    },
+    {
+      "tema": "salud",
+      "resumen": "Transformación hacia un modelo preventivo, reducción de listas de espera y fortalecimiento de la red de EBAIS."
+    },
+    {
+      "tema": "ambiente",
+      "resumen": "Transición energética justa, adaptación climática, economía circular y gestión integral del agua."
+    },
+    {
+      "tema": "seguridad",
+      "resumen": "Emergencia nacional para recuperar control territorial, desarticular crimen organizado y modernizar la policía."
+    },
+    {
+      "tema": "gobernanza",
+      "resumen": "Reforma del Estado, eficiencia institucional, disciplina fiscal y digitalización administrativa."
+    }
+  ],
+  "propuestas": {
+    "concretas": [
+      {
+        "propuesta": "Renovación de infraestructura vial crítica.",
+        "cita_textual": "Renovar o sustituir al menos el 40% de puentes en condición crítica antes del 2030"
+      },
+      {
+        "propuesta": "Fortalecimiento del cuerpo policial.",
+        "cita_textual": "Aumentar a ≥1,5 policías por cada 1.000 habitantes con despliegue territorial inteligente (cobertura y turnos)"
+      }
+    ],
+    "generales_o_discursivas": [
+      {
+        "propuesta": "Compromiso ético de gestión pública.",
+        "cita_textual": "Gobernar con honestidad, pensando en el interés colectivo y no personal"
+      },
+      {
+        "propuesta": "Visión de liderazgo nacional.",
+        "cita_textual": "Costa Rica debe continuar con la senda de la victoria, administrando con claridad los recursos que genera"
+      }
+    ]
+  },
+  "temas_ausentes_o_poco_desarrollados": [
+    {
+      "tema": "Política exterior y relaciones diplomáticas",
+      "evidencia": "No se desarrolla una estrategia diplomática integral ni un posicionamiento claro en organismos multilaterales fuera de la OCDE."
+    },
+    {
+      "tema": "Gestión de flujos migratorios",
+      "evidencia": "No se identifica una política explícita para integración, regularización o atención de la población migrante."
+    }
+  ],
+  "prioridad_tematica_1a10": {
+    "economia": 9,
+    "educacion": 10,
+    "salud": 8,
+    "ambiente": 7,
+    "seguridad": 10,
+    "gobernanza": 9
+  },
+  "insights_criticos": {
+    "coherencia": {
+      "analisis": "El plan alinea el diagnóstico de retroceso estructural con metas cuantificables basadas en indicadores de referencia internacional.",
+      "citas_textuales": [
+        "Estos desafíos deben reconocerse con claridad para poder transformarlos en oportunidades mediante un plan de gobierno coherente, integral y sostenible"
+      ]
+    },
+    "viabilidad": {
+      "analisis": "El principal desafío es financiar un aumento sustancial de la inversión pública mientras se reduce deuda y déficit sin nuevos impuestos.",
+      "citas_textuales": [
+        "No crearemos más impuestos",
+        "Aumentar la inversión pública en infraestructura... hacia un 6% recomendado"
+      ]
+    },
+    "claridad_ejecucion": {
+      "analisis": "Alta claridad en resultados y KPIs, con menor detalle sobre la viabilidad política y legislativa de las reformas.",
+      "citas_textuales": [
+        "Propiciar las reformas necesarias para la capacitación permanente",
+        "gestionar las mejoras al sistema de transferencias"
+      ]
+    },
+    "posibles_contradicciones": {
+      "analisis": "Tensión entre la reducción del gasto administrativo y la creación de nuevas dependencias técnicas especializadas.",
+      "citas_textuales": [
+        "Reducir el gasto administrativo en al menos un 15%",
+        "Creación del Centro de monitoreo nacional",
+        "agencia técnica nacional especializada en infraestructura"
+      ]
+    }
+  },
+  "lenguaje": {
+    "tipo_predominante": "Híbrido técnico-métrico con narrativa épica",
+    "descripcion": "Lenguaje técnico y estadístico enmarcado en un discurso emocional de rescate nacional.",
+    "evidencia_textual": "Uso de tecnicismos como \"coeficiente de Gini\" y \"gestión poblacional de riesgos automatizada en EDUS\" junto a frases como \"Costa Rica se levanta\" y \"Costa Rica va a ganar\"."
+  },
+  "puntuacion_lenguaje_1a10": {
+    "tecnico": 9,
+    "populista": 6,
+    "ambiguo": 3,
+    "basado_en_metricas": 10
+  }
+}

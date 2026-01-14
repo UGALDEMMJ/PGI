@@ -1,0 +1,167 @@
+{
+  "id": "progreso-social-democratico",
+  "nombre": "Partido Progreso Social Democrático",
+  "siglas": "PPSD",
+  "candidato_presidente": "Luz María Alpízar Loaiza",
+  "candidato_imagen": "https://www.nacion.com/gnfactory/elecciones-2026/img/candidatos-presidencia/ppsd.webp",
+  "anio": 2026,
+  "periodo_gobierno": "2026-2030",
+  "pais": "CR",
+  "bandera": "https://www.tse.go.cr/imgs/divisas/progresosocialdemocratico.jpg",
+  "resumen_10_puntos": [
+    {
+      "n": 1,
+      "titulo": "Reversión de la inseguridad nacional",
+      "detalle": "Fortalecimiento policial con uso de Big Data e inteligencia artificial, priorizando territorios de alta incidencia criminal."
+    },
+    {
+      "n": 2,
+      "titulo": "Recuperación de aprendizajes educativos",
+      "detalle": "Tutorías personalizadas, nivelación en secundaria y reducción del rezago en lectura y matemáticas."
+    },
+    {
+      "n": 3,
+      "titulo": "Saneamiento de la CCSS",
+      "detalle": "Atención de la deuda estatal y optimización en la gestión de especialistas y medicamentos."
+    },
+    {
+      "n": 4,
+      "titulo": "Reactivación económica innovadora",
+      "detalle": "Impulso a MiPymes y transición hacia una economía 3D: inclusiva, digitalizada y descarbonizada."
+    },
+    {
+      "n": 5,
+      "titulo": "Infraestructura física y digital",
+      "detalle": "Modernización mediante APP e implementación prioritaria de la red 5G."
+    },
+    {
+      "n": 6,
+      "titulo": "Fortalecimiento agropecuario y pesquero",
+      "detalle": "Uso de tecnologías biológicas, trazabilidad digital y protección frente a competencia desleal."
+    },
+    {
+      "n": 7,
+      "titulo": "Sostenibilidad ambiental",
+      "detalle": "Economía circular, descarbonización y protección de ecosistemas marinos y terrestres."
+    },
+    {
+      "n": 8,
+      "titulo": "Inclusión social",
+      "detalle": "Programas específicos para personas con discapacidad, adultos mayores y pueblos indígenas."
+    },
+    {
+      "n": 9,
+      "titulo": "Empoderamiento de la mujer",
+      "detalle": "Sistema zipper en política, justicia digital contra la violencia y Sistema Nacional de Cuidados."
+    },
+    {
+      "n": 10,
+      "titulo": "Gobernanza y democracia participativa",
+      "detalle": "Estado abierto, rendición de cuentas y fortalecimiento de la formación cívica juvenil."
+    }
+  ],
+  "ejes_tematicos": [
+    {
+      "tema": "economia",
+      "resumen": "Reactivación mediante innovación, contención de la deuda pública (meta <60% PIB) y apoyo productivo fuera de la GAM."
+    },
+    {
+      "tema": "educacion",
+      "resumen": "Equidad, educación dual, multilingüismo e infraestructura educativa moderna."
+    },
+    {
+      "tema": "salud",
+      "resumen": "Autonomía de la CCSS, eliminación de listas de espera y énfasis en medicina preventiva."
+    },
+    {
+      "tema": "ambiente",
+      "resumen": "Territorios resilientes, descarbonización del transporte y gestión hídrica eficiente."
+    },
+    {
+      "tema": "seguridad",
+      "resumen": "Combate al narcotráfico, reforma penal y prevención social del delito en jóvenes."
+    },
+    {
+      "tema": "gobernanza",
+      "resumen": "Gobierno abierto, participación ciudadana digital y ética pública."
+    }
+  ],
+  "propuestas": {
+    "concretas": [
+      {
+        "propuesta": "Implementación de la red 5G",
+        "cita_textual": "Implementar las redes 5G, consideradas una prioridad nacional según el Plan Nacional de Desarrollo e Inversión Pública"
+      },
+      {
+        "propuesta": "Creación del INAPAM",
+        "cita_textual": "Creación del Instituto Nacional de la Persona Adulta Mayor (INAPAM)... Sustituir al CONAPAM por un instituto autónomo con personalidad jurídica y patrimonio propio"
+      }
+    ],
+    "generales_o_discursivas": [
+      {
+        "propuesta": "Cultura de paz y valores éticos",
+        "cita_textual": "Sabemos que la crisis en valores tiene mucho de responsabilidad en lo que vivimos por esto será un tema trasversal en todo lo que hagamos"
+      },
+      {
+        "propuesta": "Defensa de la democracia",
+        "cita_textual": "La democracia se defiende con más democracia, y así cada acción que construye, pero ante crisis la unión, el respeto y la empatía nos fortalecen"
+      }
+    ]
+  },
+  "temas_ausentes_o_poco_desarrollados": [
+    {
+      "tema": "Financiamiento de megaproyectos de salud",
+      "evidencia": "No se detallan partidas presupuestarias específicas para hospitales especializados más allá de menciones generales a eficiencia."
+    },
+    {
+      "tema": "Reforma fiscal estructural detallada",
+      "evidencia": "Se menciona una reforma fiscal de tercera generación sin articulado ni proyecciones técnicas de recaudación."
+    }
+  ],
+  "prioridad_tematica_1a10": {
+    "economia": 9,
+    "educacion": 9,
+    "salud": 8,
+    "ambiente": 7,
+    "seguridad": 10,
+    "gobernanza": 7
+  },
+  "insights_criticos": {
+    "coherencia": {
+      "analisis": "El plan intenta equilibrar la estabilidad macroeconómica con la inversión social tras años de ajuste fiscal.",
+      "citas_textuales": [
+        "En los últimos años se ha sacrificado el desarrollo social con un fin no menos importante, mejorar los indicadores económicos del país"
+      ]
+    },
+    "viabilidad": {
+      "analisis": "Depende de la atracción de capital privado mediante APP y de resolver la mora administrativa estatal.",
+      "citas_textuales": [
+        "Implementar una combinación de medidas de financiación, incluyendo... Asociaciones Público-Privadas (APP)"
+      ]
+    },
+    "claridad_ejecucion": {
+      "analisis": "Existe claridad en seguridad y educación, pero menor definición en la transformación del modelo agropecuario.",
+      "citas_textuales": [
+        "Establecer programas de seguimiento de estos jóvenes hasta que se reinserten al sistema educativo"
+      ]
+    },
+    "posibles_contradicciones": {
+      "analisis": "Tensión entre la estricta observancia de la regla fiscal y la crítica a la austeridad como limitante frente al crimen.",
+      "citas_textuales": [
+        "La austeridad fiscal deteriora la capacidad de respuesta pública al crimen organizado",
+        "Estricta observancia de la regla fiscal para contener y reducir el gasto del Gobierno Central"
+      ]
+    }
+  },
+  "lenguaje": {
+    "tipo_predominante": "Tecno-optimista y humanista-social",
+    "descripcion": "Combina conceptos tecnológicos modernos con un discurso centrado en justicia social y dignidad humana.",
+    "evidencia_textual": "Uso de términos como inteligencia artificial, Big Data, 5G, economía circular y referencias a justicia social."
+  },
+  "puntuacion_lenguaje_1a10": {
+    "tecnico": 8,
+    "populista": 3,
+    "ambiguo": 4,
+    "basado_en_metricas": 8
+  }
+}

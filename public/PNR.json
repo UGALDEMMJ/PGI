@@ -1,0 +1,170 @@
+{
+  "id": "nueva-republica",
+  "nombre": "Partido Nueva República",
+  "siglas": "PNR",
+  "candidato_presidente": "Fabricio Alvarado Muñoz",
+  "candidato_imagen": "https://www.nacion.com/gnfactory/elecciones-2026/img/candidatos-presidencia/pnr.webp",
+  "anio": 2026,
+  "periodo_gobierno": "2026-2030",
+  "pais": "CR",
+  "bandera": "https://www.tse.go.cr/imgs/divisas/nuevarepublica.jpg",
+  "resumen_10_puntos": [
+    {
+      "n": 1,
+      "titulo": "Estado facilitador y desarrollo virtuoso",
+      "detalle": "Transición de un Estado controlador y burocrático hacia un Estado facilitador que impulse un círculo virtuoso de desarrollo mediante organizaciones públicas inteligentes."
+    },
+    {
+      "n": 2,
+      "titulo": "Fondo de Desarrollo Nacional (Fodenal)",
+      "detalle": "Creación de un fondo financiado con inversiones público-privadas en recursos minerales y geográficos, destinado principalmente a reducir la deuda pública."
+    },
+    {
+      "n": 3,
+      "titulo": "Canal Verde Interoceánico",
+      "detalle": "Megaobra de infraestructura con megapuertos y líneas férreas para conectar el Pacífico y el Atlántico."
+    },
+    {
+      "n": 4,
+      "titulo": "Organizaciones públicas inteligentes",
+      "detalle": "Transformación de la gestión pública mediante liderazgo transformacional y empoderamiento del funcionariado."
+    },
+    {
+      "n": 5,
+      "titulo": "Gobierno 100% digital",
+      "detalle": "Implementación de un modelo de gobierno digital total con trámites accesibles a un clic, inspirado en E-Estonia."
+    },
+    {
+      "n": 6,
+      "titulo": "Explotación sostenible de recursos naturales",
+      "detalle": "Aprovechamiento racional de oro, gas natural y petróleo para generar ingresos frescos al Estado."
+    },
+    {
+      "n": 7,
+      "titulo": "Centro de Gobierno",
+      "detalle": "Creación de un centro estratégico en Casa Presidencial, liderado por el presidente para coordinar y monitorear la gestión pública."
+    },
+    {
+      "n": 8,
+      "titulo": "Reforma educativa STEAM",
+      "detalle": "Reforma profunda del sistema educativo priorizando ciencia, tecnología, ingeniería, artes y matemáticas."
+    },
+    {
+      "n": 9,
+      "titulo": "Ministerio de la Familia y Bienestar Social",
+      "detalle": "Creación de un ministerio para coordinar la política social y proteger la vida humana desde la concepción."
+    },
+    {
+      "n": 10,
+      "titulo": "Seguridad de mano dura",
+      "detalle": "Política de seguridad con construcción de mega cárcel de alta seguridad y posibilidad de estados de excepción en zonas críticas."
+    }
+  ],
+  "ejes_tematicos": [
+    {
+      "tema": "economia",
+      "resumen": "Reactivación económica basada en iniciativa privada, reducción de cargas sociales, modernización tributaria y creación de fondos soberanos."
+    },
+    {
+      "tema": "educacion",
+      "resumen": "Implementación del modelo STEAM, bilingüismo, dignificación docente e infraestructura tecnológica."
+    },
+    {
+      "tema": "salud",
+      "resumen": "Reestructuración de la CCSS, reducción de listas de espera y construcción de centros oncológicos regionales."
+    },
+    {
+      "tema": "ambiente",
+      "resumen": "Descarbonización realista, gestión hídrica integral, economía circular y bioeconomía soberana."
+    },
+    {
+      "tema": "seguridad",
+      "resumen": "Unificación policial, combate al narcotráfico y cibercrimen, y reforma penitenciaria con trabajo obligatorio."
+    },
+    {
+      "tema": "gobernanza",
+      "resumen": "Estado estratégico con gerencia pública orientada a resultados, transparencia con blockchain y eliminación de redundancias institucionales."
+    }
+  ],
+  "propuestas": {
+    "concretas": [
+      {
+        "propuesta": "Construcción del Canal Verde Interoceánico.",
+        "cita_textual": "Desarrollar y realizar la apertura del Canal Verde Interoceánico de Costa Rica, cuyas obras comprenderían un mega puerto en cada litoral, unidos entre sí por aproximadamente diez líneas de rutas viales y tres líneas de ferrocarril"
+      },
+      {
+        "propuesta": "Gobierno digital total.",
+        "cita_textual": "para que al final de la administración de la Nueva República todos los trámites que requieran los ciudadanos, empresas u organizaciones asociativas, los puedan hacer a un clic de distancia desde sus casas u oficinas"
+      }
+    ],
+    "generales_o_discursivas": [
+      {
+        "propuesta": "Dignificación del productor agropecuario.",
+        "cita_textual": "asumimos el compromiso de restituir la dignidad del productor, recuperar la soberanía alimentaria y transformar el agro, la agroindustria y la pesca en pilares estratégicos del desarrollo nacional"
+      },
+      {
+        "propuesta": "Cultura de la excelencia.",
+        "cita_textual": "el círculo virtuoso del desarrollo desemboca en la construcción de una cultura de la excelencia, que supera el paradigma dominante de la 'ley del mínimo esfuerzo'"
+      }
+    ]
+  },
+  "temas_ausentes_o_poco_desarrollados": [
+    {
+      "tema": "Reforma fiscal con tasas específicas",
+      "evidencia": "Se menciona la modernización y simplificación tributaria, pero no se detallan porcentajes concretos de IVA o Renta."
+    },
+    {
+      "tema": "Relaciones diplomáticas con Asia y África",
+      "evidencia": "La política exterior se centra en liderazgo regional y relación con EE. UU., sin estrategias bilaterales con potencias emergentes extra continentales."
+    }
+  ],
+  "prioridad_tematica_1a10": {
+    "economia": 10,
+    "educacion": 9,
+    "salud": 8,
+    "ambiente": 7,
+    "seguridad": 10,
+    "gobernanza": 10
+  },
+  "insights_criticos": {
+    "coherencia": {
+      "analisis": "El plan vincula directamente la eficiencia económica con la mejora social, planteando que el crecimiento productivo es la base para erradicar la pobreza estructural.",
+      "citas_textuales": [
+        "toda política social también tiene una vocación económica, y toda política económica tiene, a su vez, una vocación social",
+        "la incansable búsqueda del crecimiento cualitativo del desarrollo humano"
+      ]
+    },
+    "viabilidad": {
+      "analisis": "Las megaobras y la reducción de deuda dependen de la creación del Fodenal y de la explotación de recursos naturales, lo que exige reformas legales y amplios consensos políticos.",
+      "citas_textuales": [
+        "representaría un ingreso neto sustantivo en las arcas de Fodenal",
+        "el 50% del fondo vaya directo a bajar la deuda pública"
+      ]
+    },
+    "claridad_ejecucion": {
+      "analisis": "Alta claridad en digitalización y estructura de mando, pero menor definición sobre el manejo de conflictos sociales derivados de minería o gas.",
+      "citas_textuales": [
+        "hacer del país la nueva 'Estonia' de las Américas",
+        "apostaremos por la Nueva República que busca construir una Costa Rica inteligente y próspera"
+      ]
+    },
+    "posibles_contradicciones": {
+      "analisis": "Existe tensión entre la promesa de reducir burocracia y la creación de nuevas estructuras ministeriales.",
+      "citas_textuales": [
+        "Programa de congelamiento de plazas del Poder Ejecutivo",
+        "Crearemos el Ministerio de la Familia y Bienestar Social"
+      ]
+    }
+  },
+  "lenguaje": {
+    "tipo_predominante": "Estratégico-gerencial con matices conservadores",
+    "descripcion": "Uso de terminología de gerencia pública y disrupción tecnológica combinada con referencias ideológicas conservadoras.",
+    "evidencia_textual": "Conceptos como \"gerencia pública estratégica\" y \"disrupción\" junto a referencias a la tradición judeocristiana."
+  },
+  "puntuacion_lenguaje_1a10": {
+    "tecnico": 8,
+    "populista": 4,
+    "ambiguo": 3,
+    "basado_en_metricas": 7
+  }
+}

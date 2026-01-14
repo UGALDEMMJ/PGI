@@ -1,0 +1,167 @@
+{
+  "id": "partido-de-la-clase-trabajadora",
+  "nombre": "Partido de la Clase Trabajadora",
+  "siglas": "PDLCT",
+  "candidato_presidente": "David Hernández Brenes",
+  "candidato_imagen": "https://www.nacion.com/gnfactory/elecciones-2026/img/candidatos-presidencia/pt.webp",
+  "anio": 2026,
+  "periodo_gobierno": "2026-2030",
+  "pais": "CR",
+  "bandera": "https://www.tse.go.cr/imgs/divisas/delaclasetrabajadora.jpg",
+  "resumen_10_puntos": [
+    {
+      "n": 1,
+      "titulo": "Expropiación de sectores estratégicos",
+      "detalle": "Plan de expropiación de empresas líderes en energía, alimentos, construcción y transporte para ponerlas bajo control obrero."
+    },
+    {
+      "n": 2,
+      "titulo": "Gobierno de Consejos Populares",
+      "detalle": "Sustitución del Estado actual por un Estado socialista dirigido por la clase obrera mediante asambleas en fábricas, plantaciones y barrios."
+    },
+    {
+      "n": 3,
+      "titulo": "Cese del pago de la deuda pública",
+      "detalle": "Suspensión inmediata del pago de la deuda pública, que supera los 35 billones de colones."
+    },
+    {
+      "n": 4,
+      "titulo": "Nacionalización de la banca",
+      "detalle": "Creación de un banco único centralizado mediante la nacionalización de todas las entidades financieras privadas."
+    },
+    {
+      "n": 5,
+      "titulo": "Salario mínimo y renta básica universal",
+      "detalle": "Establecimiento de un salario mínimo aproximado de ₡510.000 y una renta básica universal de ₡127.600 por adulto."
+    },
+    {
+      "n": 6,
+      "titulo": "Jornada laboral de 40 horas",
+      "detalle": "Reducción de la jornada semanal a 40 horas sin reducción salarial para generar nuevos empleos."
+    },
+    {
+      "n": 7,
+      "titulo": "Nacionalización de salud y educación",
+      "detalle": "Expropiación sin indemnización de clínicas, hospitales, farmacias y universidades privadas para integrarlas al sistema público."
+    },
+    {
+      "n": 8,
+      "titulo": "Reforma integral del sistema de pensiones",
+      "detalle": "Reducción de la edad de jubilación a 60 años para hombres y 55 para mujeres con un mínimo de 300 cuotas."
+    },
+    {
+      "n": 9,
+      "titulo": "Derechos reproductivos y diversidad",
+      "detalle": "Legalización del aborto libre y gratuito y promulgación de una Ley Trans con acceso a salud y cupos laborales."
+    },
+    {
+      "n": 10,
+      "titulo": "Política internacional revolucionaria",
+      "detalle": "Ruptura con el imperialismo, derogación de los TLC y lucha por una Federación Socialista Centroamericana."
+    }
+  ],
+  "ejes_tematicos": [
+    {
+      "tema": "economia",
+      "resumen": "Captura de la plusvalía mediante expropiaciones, control obrero de empresas y monopolio estatal del comercio exterior."
+    },
+    {
+      "tema": "educacion",
+      "resumen": "Asignación del 10% del PIB a educación pública, eliminación de pruebas estandarizadas y reducción de grupos a 15 estudiantes."
+    },
+    {
+      "tema": "salud",
+      "resumen": "Sistema único y centralizado financiado por la riqueza empresarial y el cobro forzoso de deudas patronales a la CCSS."
+    },
+    {
+      "tema": "ambiente",
+      "resumen": "Oposición a minería a cielo abierto e hidrocarburos y recuperación de recursos naturales bajo control de trabajadores."
+    },
+    {
+      "tema": "seguridad",
+      "resumen": "Autodefensa comunitaria, eliminación del secreto bancario para combatir al narcotráfico y disolución de cuerpos policiales militarizados."
+    },
+    {
+      "tema": "gobernanza",
+      "resumen": "Estado basado en asambleas obreras, campesinas y populares con elección de jueces y voto desde los 15 años."
+    }
+  ],
+  "propuestas": {
+    "concretas": [
+      {
+        "propuesta": "Definición de un salario mínimo específico.",
+        "cita_textual": "Nuestra propuesta es que este salario mínimo debería ser de aproximadamente 510 000 colones"
+      },
+      {
+        "propuesta": "Reducción de la edad de jubilación por género.",
+        "cita_textual": "Bajar la edad de pensionarse de los hombres a los 60 años y las mujeres a los 55"
+      }
+    ],
+    "generales_o_discursivas": [
+      {
+        "propuesta": "Toma del poder político mediante revolución social.",
+        "cita_textual": "siempre y cuando la clase obrera... pueda organizarse políticamente y plantearse como el sector que debe estar al frente de la sociedad, tomando por medio de una revolución social el poder político"
+      },
+      {
+        "propuesta": "Socialización de las tareas domésticas.",
+        "cita_textual": "Socialización de las tareas domésticas a través de la creación de comedores y lavanderías comunales, servicios públicos de limpieza y de mantenimiento"
+      }
+    ]
+  },
+  "temas_ausentes_o_poco_desarrollados": [
+    {
+      "tema": "Turismo",
+      "evidencia": "El turismo no cuenta con un eje propio y solo se menciona tangencialmente en relación con migración."
+    },
+    {
+      "tema": "Innovación tecnológica e inteligencia artificial",
+      "evidencia": "NO SE IDENTIFICA EN EL DOCUMENTO."
+    }
+  ],
+  "prioridad_tematica_1a10": {
+    "economia": 10,
+    "educacion": 9,
+    "salud": 9,
+    "ambiente": 7,
+    "seguridad": 7,
+    "gobernanza": 10
+  },
+  "insights_criticos": {
+    "coherencia": {
+      "analisis": "Las propuestas dependen de forma absoluta de la toma del poder obrero y la expropiación de la riqueza empresarial.",
+      "citas_textuales": [
+        "La única salida: un gobierno de la clase trabajadora basado en consejos populares"
+      ]
+    },
+    "viabilidad": {
+      "analisis": "La viabilidad técnica y financiera es incompatible con el marco legal y financiero vigente, al requerir la abolición de la propiedad privada.",
+      "citas_textuales": [
+        "Acceder al monto que se dejan los grandes empresarios implica romper con las leyes y el Estado actual, que protegen la propiedad privada"
+      ]
+    },
+    "claridad_ejecucion": {
+      "analisis": "Hay claridad ideológica en los objetivos, pero ambigüedad logística para evitar desabastecimiento tras expropiaciones masivas.",
+      "citas_textuales": [
+        "impulsar un proceso escalonado de expropiaciones... expropiación inmediata de las empresas donde haya defunciones por siniestralidad"
+      ]
+    },
+    "posibles_contradicciones": {
+      "analisis": "Tensión entre planificación centralizada y participación directa cotidiana de consejos locales.",
+      "citas_textuales": [
+        "producción centralizada y planificada de manera democrática",
+        "participación directa y cotidiana en toda la toma de decisiones"
+      ]
+    }
+  },
+  "lenguaje": {
+    "tipo_predominante": "Agitador-revolucionario con uso de métricas económicas",
+    "descripcion": "Lenguaje de confrontación de clases combinado con cifras macroeconómicas para justificar la transformación socialista.",
+    "evidencia_textual": "Uso de términos como \"burguesía\", \"saqueo\" y \"orden inmoral\" junto a datos de billones de colones del Banco Central."
+  },
+  "puntuacion_lenguaje_1a10": {
+    "tecnico": 5,
+    "populista": 10,
+    "ambiguo": 6,
+    "basado_en_metricas": 9
+  }
+}

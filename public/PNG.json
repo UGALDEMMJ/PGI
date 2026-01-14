@@ -1,0 +1,170 @@
+{
+  "id": "nueva-generacion",
+  "nombre": "Partido Nueva Generación",
+  "siglas": "PNG",
+  "candidato_presidente": "Fernando Zamora Castellanos",
+  "candidato_imagen": "https://www.nacion.com/gnfactory/elecciones-2026/img/candidatos-presidencia/png.webp",
+  "anio": 2026,
+  "periodo_gobierno": "2026-2030",
+  "pais": "CR",
+  "bandera": "https://www.tse.go.cr/imgs/divisas/nuevageneracion.jpg",
+  "resumen_10_puntos": [
+    {
+      "n": 1,
+      "titulo": "Emergencia nacional en seguridad",
+      "detalle": "Declaratoria de emergencia nacional en seguridad para implementar medidas inmediatas contra el crimen organizado y recuperar el control territorial."
+    },
+    {
+      "n": 2,
+      "titulo": "Transformación energética",
+      "detalle": "Reinicio del proyecto hidroeléctrico El Diquís e impulso de la energía geotérmica y mareomotriz."
+    },
+    {
+      "n": 3,
+      "titulo": "Reforma del Estado y la Constitución",
+      "detalle": "Reformas parciales urgentes para eliminar duplicidades y mejorar la representación parlamentaria."
+    },
+    {
+      "n": 4,
+      "titulo": "Economía de dos contornos",
+      "detalle": "Separación de flujos financieros para inversión estratégica y consumo doméstico."
+    },
+    {
+      "n": 5,
+      "titulo": "Reforma educativa humanista",
+      "detalle": "Reforma educativa integral con visión humanista y renacentista, fortaleciendo pensamiento crítico y autoridad parental."
+    },
+    {
+      "n": 6,
+      "titulo": "Gran Corredor Logístico Internacional",
+      "detalle": "Interconexión de puertos del Caribe y el Pacífico mediante trenes de carga."
+    },
+    {
+      "n": 7,
+      "titulo": "Auditoría y fortalecimiento de la CCSS",
+      "detalle": "Auditoría externa rigurosa para eliminar ineficiencia, maltrato y abuso de incapacidades."
+    },
+    {
+      "n": 8,
+      "titulo": "Agricultura regenerativa y acuacultura",
+      "detalle": "Impulso a la agricultura regenerativa y la acuacultura como motores de desarrollo rural y soberanía alimentaria."
+    },
+    {
+      "n": 9,
+      "titulo": "Alianza estratégica con Estados Unidos",
+      "detalle": "Alianza con EE. UU. para transferencia tecnológica, seguridad y acceso a mercados, manteniendo soberanía nacional."
+    },
+    {
+      "n": 10,
+      "titulo": "Rescate de la identidad cultural",
+      "detalle": "Promoción de tradiciones, valores judeocristianos y el arte nacional frente a influencias externas."
+    }
+  ],
+  "ejes_tematicos": [
+    {
+      "tema": "economia",
+      "resumen": "Producción, innovación y soberanía; separación de banca comercial y de inversión y uso de criptomonedas como reserva estratégica."
+    },
+    {
+      "tema": "educacion",
+      "resumen": "Restauración del pensamiento crítico, valores cívicos y fortalecimiento del homeschooling con autoridad parental."
+    },
+    {
+      "tema": "salud",
+      "resumen": "Eficiencia administrativa de la CCSS, rechazo a privatización por sabotaje y atención digna al adulto mayor."
+    },
+    {
+      "tema": "ambiente",
+      "resumen": "Meta de 75% de cobertura forestal al 2040 y transformación de residuos en energía."
+    },
+    {
+      "tema": "seguridad",
+      "resumen": "Endurecimiento de penas, cárceles especializadas y combate a la corrupción cultural."
+    },
+    {
+      "tema": "gobernanza",
+      "resumen": "Modernización digital, regionalización en nueve federaciones municipales y reforma del sistema de elección de magistrados y diputados."
+    }
+  ],
+  "propuestas": {
+    "concretas": [
+      {
+        "propuesta": "Construcción de cárcel especializada.",
+        "cita_textual": "Aprovechar el 54% ocioso de La Reforma (62.28 hectáreas), agilizar el inicio de la construcción de una cárcel especializada en narcotráfico, secuestro, extorsión y violencia"
+      },
+      {
+        "propuesta": "Construcción de nuevos aeropuertos internacionales.",
+        "cita_textual": "se plantea la construcción inmediata de dos nuevos aeropuertos internacionales: uno en el Caribe costarricense (ampliación del actual aeropuerto de Limón central) y otro en la zona Pacífico Central (preferiblemente en Orotina)"
+      }
+    ],
+    "generales_o_discursivas": [
+      {
+        "propuesta": "Visión trascendente del ser humano.",
+        "cita_textual": "El ser humano ha sido siempre una figura fascinante... Somos seres profundamente conectados con el universo, capaces de entender, crear, transformar y, lo más importante, trascender"
+      },
+      {
+        "propuesta": "Concepción activa de la paz.",
+        "cita_textual": "la paz no es un concepto pasivo ni una sumisión al más fuerte, sino una construcción activa basada en el respeto mutuo y la armonía"
+      }
+    ]
+  },
+  "temas_ausentes_o_poco_desarrollados": [
+    {
+      "tema": "Derechos de poblaciones LGBTQ+",
+      "evidencia": "No se mencionan políticas específicas; se enfatiza la defensa de la familia tradicional y se critican ideologías queer o woke."
+    },
+    {
+      "tema": "Desarrollo integral de la niñez",
+      "evidencia": "La niñez se aborda principalmente desde la prevención del delito y educación moral, sin un eje integral de desarrollo temprano."
+    }
+  ],
+  "prioridad_tematica_1a10": {
+    "economia": 10,
+    "educacion": 9,
+    "salud": 8,
+    "ambiente": 8,
+    "seguridad": 10,
+    "gobernanza": 8
+  },
+  "insights_criticos": {
+    "coherencia": {
+      "analisis": "El plan vincula identidad cultural y moralidad espiritual con desarrollo económico, atribuyendo inseguridad y pobreza a la pérdida de valores.",
+      "citas_textuales": [
+        "la delincuencia y la inseguridad están conectadas con la pérdida de nuestros valores y tradiciones",
+        "una cultura productiva es aquella en la que las personas se ven a sí mismas como creadoras de valor"
+      ]
+    },
+    "viabilidad": {
+      "analisis": "Las grandes obras dependen de concesiones y capital internacional, condicionando su ejecución a negociaciones diplomáticas y mercados.",
+      "citas_textuales": [
+        "La inversión en aeropuertos puede estructurarse mediante alianzas público-privadas, concesiones internacionales",
+        "El corredor será financiado mediante una combinación de: Convenios internacionales... Concesiones de obra pública"
+      ]
+    },
+    "claridad_ejecucion": {
+      "analisis": "Alta claridad en medidas inmediatas de seguridad; mayor abstracción en la implementación de la economía de dos contornos.",
+      "citas_textuales": [
+        "decretaremos Emergencia nacional en seguridad, lo que permitirá la rápida implementación de toda una política de seguridad",
+        "implementar este sistema requeriría la creación de instituciones especializadas"
+      ]
+    },
+    "posibles_contradicciones": {
+      "analisis": "Tensión entre la promesa de no crear impuestos y la necesidad de financiar incrementos presupuestarios en seguridad e infraestructura.",
+      "citas_textuales": [
+        "No más impuestos",
+        "Aumento y reasignación de recursos públicos para elevar en aproximadamente un 25% el presupuesto de la seguridad"
+      ]
+    }
+  },
+  "lenguaje": {
+    "tipo_predominante": "Técnico-ideológico",
+    "descripcion": "Combina conceptos especializados de economía y derecho con una retórica crítica al globalismo y la decadencia cultural.",
+    "evidencia_textual": "Uso de expresiones como \"economía de dos contornos\", \"teledetección\" y críticas a \"agendas globalistas\"."
+  },
+  "puntuacion_lenguaje_1a10": {
+    "tecnico": 8,
+    "populista": 6,
+    "ambiguo": 3,
+    "basado_en_metricas": 7
+  }
+}

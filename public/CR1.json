@@ -1,0 +1,167 @@
+{
+  "id": "alianza-costa-rica-primero",
+  "nombre": "Alianza Costa Rica Primero",
+  "siglas": "CR1",
+  "candidato_presidente": "Douglas Camaño Quirós",
+  "candidato_imagen": "https://www.nacion.com/gnfactory/elecciones-2026/img/candidatos-presidencia/acrp.webp",
+  "anio": 2026,
+  "periodo_gobierno": "2026-2030",
+  "pais": "CR",
+  "bandera": "https://www.tse.go.cr/imgs/divisas/alianzacostaricaprimero.jpg",
+  "resumen_10_puntos": [
+    {
+      "n": 1,
+      "titulo": "Defensa de la soberanía y la familia",
+      "detalle": "Revisión de tratados internacionales y metas de la Agenda 20-30 de la ONU que, según el plan, afectan la idiosincrasia nacional."
+    },
+    {
+      "n": 2,
+      "titulo": "Seguridad ciudadana con tolerancia cero",
+      "detalle": "Implementación del operativo Patria Segura para recuperar el control territorial frente al narcotráfico."
+    },
+    {
+      "n": 3,
+      "titulo": "Reactivación de la infraestructura vial",
+      "detalle": "Retomar el modelo de MOPT Constructor y ejecutar el Anillo Intercantonal de 89,9 km."
+    },
+    {
+      "n": 4,
+      "titulo": "Apoyo al sector agropecuario",
+      "detalle": "Oposición a la Alianza Trans-Pacífico y creación del Fondo de Apoyo al Productor Nacional (FAPRONA)."
+    },
+    {
+      "n": 5,
+      "titulo": "Reforma de la salud pública",
+      "detalle": "Reducción del 50% de las listas de espera de la CCSS mediante contratación de especialistas pensionados y digitalización total."
+    },
+    {
+      "n": 6,
+      "titulo": "Implementación de la Pensión Consumo",
+      "detalle": "Asignación del 3% del impuesto de ventas a un fondo complementario de jubilación individual."
+    },
+    {
+      "n": 7,
+      "titulo": "Educación técnica y bilingüe",
+      "detalle": "Prioridad al inglés como segundo idioma, formación dual y desarrollo de habilidades digitales."
+    },
+    {
+      "n": 8,
+      "titulo": "Oportunidades para la juventud",
+      "detalle": "Programa Joven Futuro Hoy para financiar vivienda y capacitación técnica a 12,000 jóvenes."
+    },
+    {
+      "n": 9,
+      "titulo": "Estado eficiente y anticorrupción",
+      "detalle": "Auditoría de pensiones de lujo y creación de una Ventanilla Única Digital con trámites en máximo 30 días."
+    },
+    {
+      "n": 10,
+      "titulo": "Nuevo pacto de gobernanza",
+      "detalle": "Nombramientos en puestos estratégicos basados en experiencia productiva y fomento del diálogo entre poderes."
+    }
+  ],
+  "ejes_tematicos": [
+    {
+      "tema": "economia",
+      "resumen": "Autosuficiencia productiva, simplificación tributaria y crédito blando para sectores agrícola e industrial."
+    },
+    {
+      "tema": "educacion",
+      "resumen": "Modelo técnico, bilingüe y humanista con énfasis en valores cívicos y rechazo al denominado adoctrinamiento ideológico."
+    },
+    {
+      "tema": "salud",
+      "resumen": "Eficiencia administrativa de la CCSS, reducción de tiempos de espera y descongestión hospitalaria."
+    },
+    {
+      "tema": "ambiente",
+      "resumen": "Equilibrio entre conservación y desarrollo, promoción de empleos verdes y uso de recursos hídricos y geotérmicos."
+    },
+    {
+      "tema": "seguridad",
+      "resumen": "Restablecimiento del orden y la autoridad con control de fronteras, puertos y uso de tecnología de vigilancia."
+    },
+    {
+      "tema": "gobernanza",
+      "resumen": "Estado austero, digitalizado y transparente, con diálogo constructivo y nombramientos basados en méritos productivos."
+    }
+  ],
+  "propuestas": {
+    "concretas": [
+      {
+        "propuesta": "Construcción del Anillo Intercantonal.",
+        "cita_textual": "El proyecto sería una obra de aproximadamente 89,9 kilómetros por medio de un 'anillo' periférico a seis carriles (3 ida – 3 vuelta), que formaría un una nueva carretera, tocando los siguientes 17 cantones"
+      },
+      {
+        "propuesta": "Creación de la Pensión Consumo.",
+        "cita_textual": "El proyecto consiste en que de ese 13% [impuesto de ventas] un 10% ingrese directamente a las arcas del estado y el otro 3% sea parte de un fondo complementario para la jubilación de cada consumidor"
+      }
+    ],
+    "generales_o_discursivas": [
+      {
+        "propuesta": "Recuperación del rumbo nacional.",
+        "cita_textual": "Costa Rica Primero: Recuperar el rumbo, devolverle el alma a la patria"
+      },
+      {
+        "propuesta": "Formación de ciudadanos orgullosos.",
+        "cita_textual": "Formar ciudadanos libres, útiles y orgullosos de ser costarricenses"
+      }
+    ]
+  },
+  "temas_ausentes_o_poco_desarrollados": [
+    {
+      "tema": "Derechos de poblaciones LGBTQ+ y equidad de género",
+      "evidencia": "No se mencionan políticas de diversidad sexual ni acciones específicas para equidad de género, salvo referencias a mujeres jefas de hogar en empleo temporal."
+    },
+    {
+      "tema": "Cultura y fomento de las artes",
+      "evidencia": "No se identifica un eje estratégico dedicado al desarrollo cultural o artístico más allá de menciones generales a identidad nacional y valores."
+    }
+  ],
+  "prioridad_tematica_1a10": {
+    "economia": 10,
+    "educacion": 7,
+    "salud": 8,
+    "ambiente": 6,
+    "seguridad": 10,
+    "gobernanza": 9
+  },
+  "insights_criticos": {
+    "coherencia": {
+      "analisis": "El plan mantiene coherencia al alinear producción nacional, soberanía y orden público como ejes articuladores de empleo y seguridad.",
+      "citas_textuales": [
+        "Este proyecto propone reconstruir el país sobre tres columnas firmes: producción, seguridad y justicia social"
+      ]
+    },
+    "viabilidad": {
+      "analisis": "La viabilidad financiera es incierta en propuestas como la Pensión Consumo y en megaproyectos de infraestructura sujetos a concesiones y revalidaciones ambientales.",
+      "citas_textuales": [
+        "Revalidaremos el Estudio de Impacto Ambiental que inexplicablemente después de un proceso contractual fue declarado 'desierto'"
+      ]
+    },
+    "claridad_ejecucion": {
+      "analisis": "Existe alta claridad en obras físicas con métricas detalladas, pero menor certeza en reformas políticas dependientes de negociación legislativa.",
+      "citas_textuales": [
+        "Dicho proyecto se presentaría en los primero 100 días y se contrataría las empresas que preparen los estudio de: 1-Trazado y levantamiento de ruta... 5- Diagrama de franjas (m3) de expropiaciones"
+      ]
+    },
+    "posibles_contradicciones": {
+      "analisis": "Contradicción entre la meta de austeridad pública y la creación de múltiples nuevas instituciones que podrían aumentar la burocracia.",
+      "citas_textuales": [
+        "Reducir el gasto político y burocrático en un 25%",
+        "Crear el Instituto Costarricense de Desarrollo Comunal (ICODECO)"
+      ]
+    }
+  },
+  "lenguaje": {
+    "tipo_predominante": "Híbrido (Técnico-Populista)",
+    "descripcion": "Combina un tono emocional y nacionalista con especificaciones técnicas y métricas de ingeniería para detallar proyectos.",
+    "evidencia_textual": "Costa Rica para el mundo, sin arrodillarse ante nadie vs. El ancho de vía deberá ser de 1.067 mm (42”)"
+  },
+  "puntuacion_lenguaje_1a10": {
+    "tecnico": 8,
+    "populista": 9,
+    "ambiguo": 4,
+    "basado_en_metricas": 9
+  }
+}

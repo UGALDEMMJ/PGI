@@ -1,0 +1,177 @@
+{
+  "id": "union-costarricense-democratica",
+  "nombre": "Partido Unión Costarricense Democrática",
+  "siglas": "PUCD",
+  "candidato_presidente": "Boris Molina Acevedo",
+  "candidato_imagen": "https://www.nacion.com/gnfactory/elecciones-2026/img/candidatos-presidencia/pucd.webp",
+  "anio": 2026,
+  "periodo_gobierno": "2026-2030",
+  "pais": "CR",
+  "bandera": "https://www.tse.go.cr/imgs/divisas/unioncostarricensedemocratica.jpg",
+  "resumen_10_puntos": [
+    {
+      "n": 1,
+      "titulo": "Economía y empleo",
+      "detalle": "Creación de empleos de calidad y apoyo al sector productivo mediante simplificación de trámites y fortalecimiento del crédito para MiPymes."
+    },
+    {
+      "n": 2,
+      "titulo": "Seguridad tecnológica",
+      "detalle": "Uso de inteligencia artificial para reconocimiento facial y bloqueo definitivo de señales celulares en centros penitenciarios."
+    },
+    {
+      "n": 3,
+      "titulo": "Reforma de justicia",
+      "detalle": "Unificación de cuerpos policiales bajo una dirección técnica y endurecimiento de medidas cautelares contra delitos graves."
+    },
+    {
+      "n": 4,
+      "titulo": "Financiamiento educativo",
+      "detalle": "Cumplimiento del traslado del 8% del PIB a educación y reducción de grupos a un máximo de 25 estudiantes por docente."
+    },
+    {
+      "n": 5,
+      "titulo": "Fortalecimiento de la salud",
+      "detalle": "Pago inmediato de la deuda del Estado con la CCSS y reducción de listas de espera mediante tres turnos de servicio."
+    },
+    {
+      "n": 6,
+      "titulo": "Sostenibilidad ambiental",
+      "detalle": "Gestión integral de residuos, impulso a la biomasa y reforestación urbana para combatir islas de calor."
+    },
+    {
+      "n": 7,
+      "titulo": "Derechos sociales",
+      "detalle": "Protección de poblaciones vulnerables, cierre de brecha digital en adultos mayores y rehabilitación de personas en situación de calle."
+    },
+    {
+      "n": 8,
+      "titulo": "Infraestructura y transporte",
+      "detalle": "Desarrollo de un tren masivo de personas en la GAM y construcción de vivienda social con enfoque de derechos humanos."
+    },
+    {
+      "n": 9,
+      "titulo": "Cultura y deporte",
+      "detalle": "Formalización laboral de artistas mediante contratos temporales y eliminación del rezago en infraestructura deportiva."
+    },
+    {
+      "n": 10,
+      "titulo": "Transparencia digital",
+      "detalle": "Aplicación transversal de la inteligencia artificial para simplificar gestiones públicas y combatir la corrupción."
+    }
+  ],
+  "ejes_tematicos": [
+    {
+      "tema": "economia",
+      "resumen": "Creación de empleo, sistema tributario progresivo con devolución del IVA y apoyo a la competitividad agropecuaria."
+    },
+    {
+      "tema": "educacion",
+      "resumen": "Reforma de evaluación, mejora de infraestructura, uso de robótica e IA y fortalecimiento de la educación superior pública."
+    },
+    {
+      "tema": "salud",
+      "resumen": "Acceso universal, teleasistencia médica para adultos mayores y énfasis en salud mental."
+    },
+    {
+      "tema": "ambiente",
+      "resumen": "Economía circular, descarbonización, turismo rural y protección de recursos naturales frente a explotación nociva."
+    },
+    {
+      "tema": "seguridad",
+      "resumen": "Prevención del delito, combate al crimen organizado, ciberseguridad y protección de datos sensibles."
+    },
+    {
+      "tema": "gobernanza",
+      "resumen": "Lucha contra la corrupción, gobierno abierto, rotación de personal de inspección y política exterior basada en neutralidad y paz."
+    }
+  ],
+  "propuestas": {
+    "concretas": [
+      {
+        "propuesta": "Reducción de la ratio estudiante-docente",
+        "cita_textual": "Reducir el tamaño de los grupos paulatinamente hasta lograr una meta de 25 estudiantes por cada docente"
+      },
+      {
+        "propuesta": "Control tecnológico en prisiones",
+        "cita_textual": "Ejecutar de manera definitiva el bloqueo de señales telefónicas e internet en todos los centros penitenciarios del país"
+      },
+      {
+        "propuesta": "Incentivo a MiPymes en contratación pública",
+        "cita_textual": "Reconocimiento de un porcentaje de hasta el 15% en las evaluaciones de las ofertas para MiPymes y cooperativas"
+      }
+    ],
+    "generales_o_discursivas": [
+      {
+        "propuesta": "Recuperación de la identidad nacional",
+        "cita_textual": "Añoramos aquella Costa Rica donde crecieron nuestros padres y abuelos... La Suiza centroamericana de la que un día presumimos"
+      },
+      {
+        "propuesta": "Fomento de valores en la política",
+        "cita_textual": "¡El culto del ego no tiene lugar en la verdadera política!"
+      },
+      {
+        "propuesta": "Promoción de estilos de vida saludables",
+        "cita_textual": "Promover estilos de vida saludables en la población para combatir el inicio y el desarrollo de enfermedades"
+      }
+    ]
+  },
+  "temas_ausentes_o_poco_desarrollados": [
+    {
+      "tema": "Gestión de la deuda pública y déficit fiscal",
+      "evidencia": "No se detallan estrategias de negociación de deuda, metas de reducción del déficit ni referencia explícita a la regla fiscal."
+    },
+    {
+      "tema": "Tratados de Libre Comercio e Inversión Extranjera Directa",
+      "evidencia": "No se identifican propuestas sobre TLC vigentes, nuevos mercados o estrategias de atracción de IED."
+    }
+  ],
+  "prioridad_tematica_1a10": {
+    "economia": 10,
+    "educacion": 10,
+    "salud": 9,
+    "ambiente": 8,
+    "seguridad": 10,
+    "gobernanza": 8
+  },
+  "insights_criticos": {
+    "coherencia": {
+      "analisis": "Integra modernización tecnológica con una narrativa de rescate de valores tradicionales, usando la IA como eje de eficiencia institucional.",
+      "citas_textuales": [
+        "Reconquistar ese país de la nostalgia... convertirla en arquetipo, en modelo universal",
+        "Implementar un Plan Transversal para la Aplicación de la Inteligencia Artificial (IA) en todo el sistema público"
+      ]
+    },
+    "viabilidad": {
+      "analisis": "Las promesas de gasto inmediato y aumentos de inversión generan presión fiscal sin detallar nuevas fuentes de ingresos.",
+      "citas_textuales": [
+        "Cumplir con el traslado del 8% del PIB a la educación",
+        "Política de pago de la deuda estatal con la Caja... en forma inmediata"
+      ]
+    },
+    "claridad_ejecucion": {
+      "analisis": "Define mecanismos técnicos y uso de bases de datos para subsidios y control fiscal, lo que facilita la implementación.",
+      "citas_textuales": [
+        "Devolución del Impuesto de Ventas (IVA)... utilizando bases de datos cruzadas del IMAS, del INEC y del SINIRUBE"
+      ]
+    },
+    "posibles_contradicciones": {
+      "analisis": "La centralización policial propuesta puede entrar en tensión con el fortalecimiento de la autonomía municipal y coordinación vecinal.",
+      "citas_textuales": [
+        "Unificación de todos los cuerpos policiales",
+        "Articulación estratégica... con el apoyo de Fuerza Pública y Policías Municipales"
+      ]
+    }
+  },
+  "lenguaje": {
+    "tipo_predominante": "Híbrido técnico-nostálgico",
+    "descripcion": "Combina una narrativa emotiva de identidad nacional con especificaciones técnicas de gestión pública y tecnología.",
+    "evidencia_textual": "Contrasta referencias a la \"Costa Rica añorada\" con términos como Ventanilla Única de Inversión y economía circular."
+  },
+  "puntuacion_lenguaje_1a10": {
+    "tecnico": 9,
+    "populista": 8,
+    "ambiguo": 4,
+    "basado_en_metricas": 7
+  }
+}

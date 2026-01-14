@@ -1,0 +1,168 @@
+{
+  "id": "unidos-podemos",
+  "nombre": "Partido Unidos Podemos",
+  "siglas": "UP",
+  "candidato_presidente": "Natalia Díaz Quintana",
+  "candidato_imagen": "https://www.nacion.com/gnfactory/elecciones-2026/img/candidatos-presidencia/pup.webp",
+  "anio": 2026,
+  "periodo_gobierno": "2026-2030",
+  "pais": "CR",
+  "bandera": "https://www.tse.go.cr/imgs/divisas/unidospodemos.jpg",
+  "resumen_10_puntos": [
+    {
+      "n": 1,
+      "titulo": "Seguridad nacional integral",
+      "detalle": "Modelo de seguridad basado en presencia territorial, castigo efectivo y prevención del delito."
+    },
+    {
+      "n": 2,
+      "titulo": "Reducción de listas de espera en salud",
+      "detalle": "Plan de choque con jornadas extendidas de 4:00 p.m. a 10:00 p.m. y pago por producción en hospitales."
+    },
+    {
+      "n": 3,
+      "titulo": "INA como motor de empleabilidad",
+      "detalle": "Transformación del INA hacia formación técnica y dual alineada con el mercado laboral."
+    },
+    {
+      "n": 4,
+      "titulo": "Disciplina fiscal estricta",
+      "detalle": "Meta de balance primario del 2% del PIB y control del gasto público."
+    },
+    {
+      "n": 5,
+      "titulo": "Hecho en Costa Rica",
+      "detalle": "Apoyo al sector agropecuario y pausa en nuevos TLC hasta alcanzar competitividad interna."
+    },
+    {
+      "n": 6,
+      "titulo": "Gestión de residuos sólidos",
+      "detalle": "Creación de ecosistemas regionales para valorización y economía circular de residuos."
+    },
+    {
+      "n": 7,
+      "titulo": "Transición energética pragmática",
+      "detalle": "Uso del gas natural como fuente puente de bajo costo hacia energías renovables."
+    },
+    {
+      "n": 8,
+      "titulo": "Gobierno Digital interoperable",
+      "detalle": "Implementación de un Estado digital unificado con sistemas interoperables."
+    },
+    {
+      "n": 9,
+      "titulo": "Infraestructura estratégica",
+      "detalle": "Infraestructura como política de Estado e inicio de estudios para un sistema de metro."
+    },
+    {
+      "n": 10,
+      "titulo": "Control migratorio estricto",
+      "detalle": "Deportación inmediata de extranjeros que cometan delitos y control firme de fronteras."
+    }
+  ],
+  "ejes_tematicos": [
+    {
+      "tema": "economia",
+      "resumen": "Disciplina fiscal, reestructuración de deuda interna y formalización de trabajadores independientes según ingresos reales."
+    },
+    {
+      "tema": "educacion",
+      "resumen": "Énfasis en STEM, bilingüismo, formación dual y recuperación de infraestructura educativa."
+    },
+    {
+      "tema": "salud",
+      "resumen": "Modernización de la CCSS, fortalecimiento del primer nivel (EBAIS) y gestión financiera transparente."
+    },
+    {
+      "tema": "ambiente",
+      "resumen": "Gestión integral del agua, transición energética y economía circular aplicada a residuos."
+    },
+    {
+      "tema": "seguridad",
+      "resumen": "Control territorial, reforma penitenciaria, ciberseguridad y recuperación de zonas vulnerables."
+    },
+    {
+      "tema": "gobernanza",
+      "resumen": "Gobierno en el territorio, digitalización estatal y liderazgo directo desde la Presidencia."
+    }
+  ],
+  "propuestas": {
+    "concretas": [
+      {
+        "propuesta": "Extensión de horarios hospitalarios",
+        "cita_textual": "vamos a extender los horarios de atención de 4:00 p.m. a 10:00 p.m. y eventualmente de 10:00 p.m. a 6:00 a.m., con el objetivo de realizar cirugías de baja complejidad"
+      },
+      {
+        "propuesta": "Trabajo obligatorio en sistema penitenciario",
+        "cita_textual": "Su eje diferenciador será la implementación del trabajo obligatorio, porque quien delinquió debe devolverle algo a Costa Rica"
+      }
+    ],
+    "generales_o_discursivas": [
+      {
+        "propuesta": "Liderazgo nacional para el cambio",
+        "cita_textual": "Estamos listos para dar el siguiente paso. El paso valiente. El paso firme. Hoy es el día en que comenzamos la evolución del cambio para Costa Rica"
+      },
+      {
+        "propuesta": "Reivindicación de la identidad nacional",
+        "cita_textual": "Nuestra identidad es lo que nos une y con ella vamos a volver a levantar a Costa Rica"
+      }
+    ]
+  },
+  "temas_ausentes_o_poco_desarrollados": [
+    {
+      "tema": "Derechos de las mujeres y equidad de género",
+      "evidencia": "No se presenta un eje específico de género ni políticas detalladas contra la violencia o brechas laborales."
+    },
+    {
+      "tema": "Mitigación específica del cambio climático",
+      "evidencia": "El enfoque en gas natural y exploración de hidrocarburos limita el desarrollo de una estrategia de descarbonización total."
+    }
+  ],
+  "prioridad_tematica_1a10": {
+    "economia": 9,
+    "educacion": 8,
+    "salud": 9,
+    "ambiente": 6,
+    "seguridad": 10,
+    "gobernanza": 8
+  },
+  "insights_criticos": {
+    "coherencia": {
+      "analisis": "Existe coherencia entre el diagnóstico educativo y la estrategia de empleabilidad, posicionando al INA como eje central del mercado laboral.",
+      "citas_textuales": [
+        "El éxito se medirá por colocación laboral, salarios de egreso, emprendimientos exitosos y satisfacción empresarial"
+      ]
+    },
+    "viabilidad": {
+      "analisis": "La meta de balance primario entra en tensión con las fuertes inversiones requeridas en infraestructura hídrica y vial.",
+      "citas_textuales": [
+        "mantener un balance primario del 2% del PIB",
+        "inversión de $3.000 millones para actualizar el sistema de agua potable"
+      ]
+    },
+    "claridad_ejecucion": {
+      "analisis": "Alta claridad operativa en salud, con métricas de pago por resultados y no por horas trabajadas.",
+      "citas_textuales": [
+        "pagaremos al personal (no solo al médico) por metas cumplidas, no por horas pasadas en el hospital"
+      ]
+    },
+    "posibles_contradicciones": {
+      "analisis": "Tensión entre la imagen de país verde y la propuesta de explorar yacimientos de hidrocarburos.",
+      "citas_textuales": [
+        "cada visitante... debe encontrar un país... verde",
+        "estudios modernos y rigurosos sobre el potencial energético nacional (incluyendo yacimientos de gas natural y petróleo)"
+      ]
+    }
+  },
+  "lenguaje": {
+    "tipo_predominante": "Híbrido técnico-populista",
+    "descripcion": "Combina terminología técnica de gestión pública y salud con una retórica emocional y confrontativa.",
+    "evidencia_textual": "Uso de términos técnicos como tele-radiología y georreferenciación junto a expresiones como \"se acabó el miedo\" y \"no más abuso\"."
+  },
+  "puntuacion_lenguaje_1a10": {
+    "tecnico": 9,
+    "populista": 7,
+    "ambiguo": 3,
+    "basado_en_metricas": 8.5
+  }
+}

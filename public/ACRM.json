@@ -1,0 +1,171 @@
+{
+  "id": "aqui-costa-rica-manda",
+  "nombre": "Aquí Costa Rica Manda",
+  "siglas": "ACRM",
+  "candidato_presidente": "Ronny Castillo González",
+  "candidato_imagen": "https://www.nacion.com/gnfactory/elecciones-2026/img/candidatos-presidencia/acrm.webp",
+  "anio": 2026,
+  "periodo_gobierno": "2026-2030",
+  "pais": "CR",
+  "bandera": "https://www.tse.go.cr/imgs/divisas/aquicostaricamanda.jpg",
+  "resumen_10_puntos": [
+    {
+      "n": 1,
+      "titulo": "Asamblea Nacional Constituyente en 2026",
+      "detalle": "Convocatoria a una Asamblea Nacional Constituyente en 2026 para redactar una nueva Constitución Política y establecer un nuevo contrato social."
+    },
+    {
+      "n": 2,
+      "titulo": "Transición hacia una Economía Regenerativa",
+      "detalle": "Transición hacia una Economía Regenerativa que busca restaurar ecosistemas y generar valor compartido en lugar de solo extraer recursos."
+    },
+    {
+      "n": 3,
+      "titulo": "Tribunales especializados de alta tecnología",
+      "detalle": "Creación de Tribunales Especializados de Alta Tecnología para combatir con \"tolerancia cero\" el narcotráfico, el crimen organizado y la corrupción."
+    },
+    {
+      "n": 4,
+      "titulo": "Medicina regenerativa en la CCSS",
+      "detalle": "Implementación de medicina regenerativa (células madre) en la CCSS para reducir listas de espera y enfrentar el envejecimiento poblacional."
+    },
+    {
+      "n": 5,
+      "titulo": "Transformación digital educativa STEM/IA",
+      "detalle": "Transformación digital del sistema educativo con énfasis en habilidades STEM, robótica e inteligencia artificial desde etapas tempranas."
+    },
+    {
+      "n": 6,
+      "titulo": "Blockchain para transparencia en contratación pública",
+      "detalle": "Uso de tecnología Blockchain para garantizar transparencia radical en todas las etapas de las contrataciones públicas."
+    },
+    {
+      "n": 7,
+      "titulo": "Fondo Soberano de Inversión Estratégica (FOSIECR)",
+      "detalle": "Creación del Fondo Soberano de Inversión Estratégica (FOSIECR) utilizando reservas internacionales para financiar infraestructura y tecnología."
+    },
+    {
+      "n": 8,
+      "titulo": "Agencia Costarricense de Inteligencia Artificial (AC-IA)",
+      "detalle": "Establecimiento de la Agencia Costarricense de Inteligencia Artificial (AC-IA) como una fundación ágil para acelerar la innovación público-privada."
+    },
+    {
+      "n": 9,
+      "titulo": "Tesoro Ecológico Nacional y Moneda Ecológica (MEC)",
+      "detalle": "Creación del Tesoro Ecológico Nacional administrado por el Banco Central y emisión de la Moneda Ecológica Costarricense (MEC)."
+    },
+    {
+      "n": 10,
+      "titulo": "Integración económica binacional con Panamá",
+      "detalle": "Integración económica con Panamá mediante una Comunidad Económica Binacional y un eje ferroviario interregional."
+    }
+  ],
+  "ejes_tematicos": [
+    {
+      "tema": "economia",
+      "resumen": "Se define como regenerativa, soberana y circular, priorizando la bioeconomía, el hub espacial y la soberanía alimentaria."
+    },
+    {
+      "tema": "educacion",
+      "resumen": "Enfocada en alfabetización digital, conectividad universal, formación docente en nuevas tecnologías y bilingüismo."
+    },
+    {
+      "tema": "salud",
+      "resumen": "Propone un modelo preventivo y digitalizado que integra la medicina de precisión y terapias avanzadas para optimizar recursos."
+    },
+    {
+      "tema": "ambiente",
+      "resumen": "Considerado el activo central de la economía, basado en la valorización financiera de la biodiversidad y servicios ecosistémicos."
+    },
+    {
+      "tema": "seguridad",
+      "resumen": "Basada en inteligencia policial, patrullaje predictivo y justicia especializada para eliminar la impunidad y el control criminal."
+    },
+    {
+      "tema": "gobernanza",
+      "resumen": "Centrada en reforma integral del Estado, transparencia radical, participación ciudadana directa y descentralización."
+    }
+  ],
+  "propuestas": {
+    "concretas": [
+      {
+        "propuesta": "Establecer el marco regulatorio para terapias avanzadas en un tiempo récord.",
+        "cita_textual": "Emitir en 90 días la reglamentación que establezca los criterios claros para: Ensayos clínicos con terapias avanzadas, Funcionamiento de bancos de células..."
+      },
+      {
+        "propuesta": "Distribución específica del portafolio del Fondo Soberano.",
+        "cita_textual": "Distribuir las inversiones en: 40% en Activos Seguros... 35% en Infraestructura Pública Estratégica... 25% en Capital de Riesgo"
+      }
+    ],
+    "generales_o_discursivas": [
+      {
+        "propuesta": "Visión aspiracional del país como referente internacional.",
+        "cita_textual": "Costa Rica se consolida como faro global de democracia, derechos humanos y desarrollo regenerativo..."
+      },
+      {
+        "propuesta": "Definición de pragmatismo político.",
+        "cita_textual": "Lideraremos un gobierno “ni de derecha ni de izquierda” tradicional, sino centrado en el pragmatismo y la búsqueda de soluciones antes que ideologías"
+      }
+    ]
+  },
+  "temas_ausentes_o_poco_desarrollados": [
+    {
+      "tema": "Derechos de la población LGTBIQ+",
+      "evidencia": "NO SE IDENTIFICA EN EL DOCUMENTO."
+    },
+    {
+      "tema": "Política migratoria y gestión de refugiados",
+      "evidencia": "El documento menciona una \"Visa Binacional para Talentos\", pero no desarrolla una política integral para flujos migratorios masivos o crisis humanitarias."
+    },
+    {
+      "tema": "Vivienda Social",
+      "evidencia": "Se menciona la reducción de inversión en vivienda como un desafío, pero no se detallan metas cuantitativas o programas específicos de construcción comparables a los ejes de IA o economía."
+    }
+  ],
+  "prioridad_tematica_1a10": {
+    "economia": 9,
+    "educacion": 8,
+    "salud": 8.5,
+    "ambiente": 9,
+    "seguridad": 9.5,
+    "gobernanza": 10
+  },
+  "insights_criticos": {
+    "coherencia": {
+      "analisis": "El plan es altamente coherente al utilizar la tecnología (Blockchain, IA, IoT) como el eje transversal que conecta la transparencia gubernamental con la eficiencia en salud y seguridad.",
+      "citas_textuales": [
+        "La descentralización tecnológica habilita modelos económicos más abiertos... estas tendencias internacionales perfilan un futuro donde los sistemas rígidos y excluyentes son reemplazados por ecosistemas adaptativos"
+      ]
+    },
+    "viabilidad": {
+      "analisis": "La viabilidad política está condicionada a procesos legislativos de mayoría calificada, mientras que la financiera depende de la reestructuración de activos nacionales (reservas).",
+      "citas_textuales": [
+        "Impulsar en la Asamblea Legislativa un Proyecto de Ley de Convocatoria a una ANC, con estricto apego al procedimiento establecido en el artículo 196... requiriendo la aprobación de dos tercios de los diputados"
+      ]
+    },
+    "claridad_ejecucion": {
+      "analisis": "Existe una claridad operativa notable mediante la inclusión de un plan de \"primeros 100 días\" con acciones ejecutivas directas.",
+      "citas_textuales": [
+        "Este plan de acción inmediata para los primeros 100 días de gestión tiene como objetivo generar confianza ciudadana mediante resultados tangibles..."
+      ]
+    },
+    "posibles_contradicciones": {
+      "analisis": "Existe una tensión entre el discurso de \"soberanía nacional\" que rechaza presiones externas y la constante referencia a la adopción de estándares internacionales (OCDE, FDA, EMA) para validar sus propuestas.",
+      "citas_textuales": [
+        "Rechazamos tratados o políticas que vulneren nuestra soberanía",
+        "Adoptando estándares internacionales (FDA/EMA) adaptados a la realidad nacional"
+      ]
+    }
+  },
+  "lenguaje": {
+    "tipo_predominante": "Híbrido (Técnico-Populista)",
+    "descripcion": "Combina términos de vanguardia tecnológica con una retórica de confrontación hacia las estructuras políticas tradicionales.",
+    "evidencia_textual": "Usa términos como \"Blockchain\" y \"HSTP/S\" junto a calificativos como \"sistema roto\", \"añejo\" y \"vieja política de clientelismo\"."
+  },
+  "puntuacion_lenguaje_1a10": {
+    "tecnico": 9,
+    "populista": 8,
+    "ambiguo": 3,
+    "basado_en_metricas": 8.5
+  }
+}

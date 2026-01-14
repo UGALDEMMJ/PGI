@@ -1,0 +1,168 @@
+{
+  "id": "integracion-nacional",
+  "nombre": "Partido Integración Nacional",
+  "siglas": "PIN",
+  "candidato_presidente": "Luis Amador Jiménez",
+  "candidato_imagen": "https://www.nacion.com/gnfactory/elecciones-2026/img/candidatos-presidencia/pin.webp",
+  "anio": 2026,
+  "periodo_gobierno": "2026-2030",
+  "pais": "CR",
+  "bandera": "https://www.tse.go.cr/imgs/divisas/integracionnacional.jpg",
+  "resumen_10_puntos": [
+    {
+      "n": 1,
+      "titulo": "Fondo Soberano de Inversión Estratégica (FSIE)",
+      "detalle": "Creación del FSIE como herramienta constitucional para financiar desarrollo territorial con recursos de concesiones y explotación de recursos naturales."
+    },
+    {
+      "n": 2,
+      "titulo": "Mando Único en Seguridad",
+      "detalle": "Reactivación del Ministerio de Gobernación y Policía y creación del Comando Nacional Anti Crimen Organizado (CONACO)."
+    },
+    {
+      "n": 3,
+      "titulo": "Muro Fronterizo Virtual",
+      "detalle": "Uso de inteligencia artificial, drones, radares y reconocimiento facial para control fronterizo."
+    },
+    {
+      "n": 4,
+      "titulo": "Eliminación de listas de espera en la CCSS",
+      "detalle": "Garantía de tiempos de respuesta por debajo de 30 días para diagnósticos en la CCSS."
+    },
+    {
+      "n": 5,
+      "titulo": "Recuperación acelerada del aprendizaje",
+      "detalle": "Plan de choque educativo de 24 a 36 meses enfocado en matemáticas, ciencias y universalización del inglés."
+    },
+    {
+      "n": 6,
+      "titulo": "Soberanía energética e hidrocarburos",
+      "detalle": "Exploración de gas natural y petróleo, transformando al ICE en Instituto de Energía."
+    },
+    {
+      "n": 7,
+      "titulo": "Ciudad Gobierno",
+      "detalle": "Centralización de más de 35 instituciones en un complejo de 153.000 m² para reducir costos operativos."
+    },
+    {
+      "n": 8,
+      "titulo": "Infraestructura multimodal y Canal Seco",
+      "detalle": "Prioridad al sistema ferroviario de carga y pasajeros y conexión interoceánica Atlántico-Pacífico."
+    },
+    {
+      "n": 9,
+      "titulo": "Plan Nacional de Desarrollo con rango de ley",
+      "detalle": "PND con financiamiento obligatorio y continuidad más allá de los ciclos electorales."
+    },
+    {
+      "n": 10,
+      "titulo": "Zonas francas fuera de la GAM",
+      "detalle": "Fortalecimiento de zonas francas regionales para descentralizar el empleo."
+    }
+  ],
+  "ejes_tematicos": [
+    {
+      "tema": "economia",
+      "resumen": "Sostenibilidad fiscal y generación de recursos alternos mediante el FSIE y eficiencia tributaria (TRIBU-CR)."
+    },
+    {
+      "tema": "educacion",
+      "resumen": "Calidad educativa, bilingüismo, redistribución del FEES para investigación aplicada y transformación del INA."
+    },
+    {
+      "tema": "salud",
+      "resumen": "Solvencia de la CCSS, pago de deuda estatal, fortalecimiento del primer nivel (EBAIS +189) y eficiencia hospitalaria."
+    },
+    {
+      "tema": "ambiente",
+      "resumen": "Transición ecológica con economía circular y aprovechamiento sostenible de recursos naturales, incluida minería e hidrocarburos."
+    },
+    {
+      "tema": "seguridad",
+      "resumen": "Prevención y reestructuración policial bajo mando unificado con tecnología de vigilancia avanzada y combate financiero al crimen."
+    },
+    {
+      "tema": "gobernanza",
+      "resumen": "Eficiencia institucional, eliminación de duplicidades, planificación estratégica vinculante y modernización legal."
+    }
+  ],
+  "propuestas": {
+    "concretas": [
+      {
+        "propuesta": "Garantizar tiempos máximos de respuesta en salud.",
+        "cita_textual": "Garantizar ≤30 días para TAC/RMN/USG y ≤7 días para laboratorio"
+      },
+      {
+        "propuesta": "Implementación de Ciudad Gobierno bajo modelo financiero específico.",
+        "cita_textual": "Ciudad Gobierno se financiará mediante un esquema de titularización tipo BOLT (Build, Operate, Lease & Transfer)"
+      }
+    ],
+    "generales_o_discursivas": [
+      {
+        "propuesta": "Recuperación de la gobernabilidad política.",
+        "cita_textual": "Recuperar la gobernabilidad y coordinación política mediante el diálogo constructivo, la transparencia institucional y la construcción de consensos"
+      },
+      {
+        "propuesta": "Liderazgo diplomático internacional.",
+        "cita_textual": "Fortalecer el liderazgo diplomático y volver a posicionar a Costa Rica en el escenario internacional como un ejemplo de nación pacífica"
+      }
+    ]
+  },
+  "temas_ausentes_o_poco_desarrollados": [
+    {
+      "tema": "Igualdad de género y derechos LGBTQIA+",
+      "evidencia": "No se identifican acciones específicas; solo menciones tangenciales a hogares con jefatura femenina."
+    },
+    {
+      "tema": "Sistema Nacional de Cuidados",
+      "evidencia": "No existe una estrategia integral de cuidados para adulto mayor y discapacidad; el enfoque se centra en pensiones."
+    }
+  ],
+  "prioridad_tematica_1a10": {
+    "economia": 10,
+    "educacion": 8,
+    "salud": 9,
+    "ambiente": 7,
+    "seguridad": 10,
+    "gobernanza": 9
+  },
+  "insights_criticos": {
+    "coherencia": {
+      "analisis": "Existe coherencia entre la generación de ingresos no tradicionales y la inversión pública, vinculando fuentes específicas con destinos estratégicos.",
+      "citas_textuales": [
+        "El FSIE se nutrirá de fuentes legítimas... recursos provenientes de concesiones estatales, como el canon de operación de APM Terminals... que se destinará exclusivamente al desarrollo estratégico de la vertiente atlántica"
+      ]
+    },
+    "viabilidad": {
+      "analisis": "La ejecución depende de reformas constitucionales y legales que requieren amplios consensos legislativos.",
+      "citas_textuales": [
+        "Se propone la creación de un Fondo Soberano de Inversión Estratégica como instrumento constitucional",
+        "Se propone que el PND tenga rango legal"
+      ]
+    },
+    "claridad_ejecucion": {
+      "analisis": "El plan presenta alta claridad técnica con KPIs y plazos definidos para los objetivos.",
+      "citas_textuales": [
+        "Recuperar los aprendizajes esenciales... en un plazo de 24 a 36 meses, reduciendo ≥10 p.p. la proporción de estudiantes con bajo rendimiento"
+      ]
+    },
+    "posibles_contradicciones": {
+      "analisis": "Tensión entre disciplina fiscal estricta y la exclusión de proyectos estratégicos de la regla fiscal.",
+      "citas_textuales": [
+        "Mantener la disciplina presupuestaria y la estricta aplicación de la regla fiscal",
+        "Los proyectos del PND deben ser excluidos de la regla fiscal"
+      ]
+    }
+  },
+  "lenguaje": {
+    "tipo_predominante": "Técnico y basado en métricas",
+    "descripcion": "Lenguaje financiero y operativo avanzado con énfasis en KPIs, plazos y modelos de financiamiento.",
+    "evidencia_textual": "Uso de términos como \"modelo de titularización tipo BOLT\", \"Service Level Agreement (SLA)\" y \"trazabilidad geoespacial\"."
+  },
+  "puntuacion_lenguaje_1a10": {
+    "tecnico": 9,
+    "populista": 3,
+    "ambiguo": 2,
+    "basado_en_metricas": 9
+  }
+}
